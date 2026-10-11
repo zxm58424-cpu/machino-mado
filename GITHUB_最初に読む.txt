@@ -1,0 +1,30 @@
+まちの窓 — GitHubで自動更新・自動公開するための手順
+
+1. GitHub Desktop (https://desktop.github.com/) をインストールし、GitHubアカウントでログイン。
+2. GitHub Desktop → File → New repository...
+   Name: machino-mado
+   Git ignore: None / License: None。Create repository を押す。
+3. GitHub Desktop → Repository → Show in Explorer でフォルダーを開く。
+   このZIPを解凍した『中身』を、GitHub Desktopのリポジトリ直下へコピー。
+   必須: .github/workflows/daily.yml, index.html, auto_update.py, collect_livecams.py,
+         update_site.py, template.html, app.js, style.css, config.json,
+         日本ライブカメラ収集DB/livecam.sqlite など。
+   ZIPファイル自体をGitHubにアップしない。上位フォルダーを1階層余分に入れない。
+4. GitHub Desktop に戻る → Changes → Summary に Initial livecam site → Commit to main。
+   Publish repository を押す。GitHub Freeなら Keep this code private のチェックを外して公開。
+5. GitHubの新リポジトリで Settings → Secrets and variables → Actions →
+   New repository secret → Name: YOUTUBE_API_KEY → Secret に自分のAPIキー。保存。
+   APIキーはファイルやIssueやチャットに書かない。
+6. Settings → Pages → Build and deployment → Source: GitHub Actions に変更。
+7. Actions → Daily live camera update and deploy → Run workflow → Run workflow。
+   collect-and-build と deploy の両方が緑なら成功。
+8. https://あなたのGitHubユーザー名.github.io/machino-mado/ から閲覧。
+   以後、原則毎日日本時間10:17に自動実行（遅延・スキップの場合あり）。
+
+※ GitHub Desktopで作られたリポジトリにREADME.mdや.gitignoreがある場合、ZIPのREADMEと.gitignoreを使ってOK。
+※ 直近にPCで追加収集した場合は、アップロード前に最新版のlivecam.sqliteを同名ファイルと差し替える。
+※ ローカルの収集タスクは停止し、GitHubと二重に回さない。
+※ 公開リポジトリにSQLiteとCSVのメタデータも公開される。YouTube APIキーはSecretsでのみ保管。
+※ 検索の上限はsearch.list 100回/日、他の通常読み取りは合計10000ユニット/日。
+   初期設定はsearch 25回/日、expand 最大180回、refresh 最大30回。
+   Google側で上限なら、その日は収集が一部停止するが、保存済みデータのサイト再生成は継続。

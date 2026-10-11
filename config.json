@@ -1,0 +1,10 @@
+{
+  "search_calls": 25,
+  "expand_calls": 180,
+  "refresh_calls": 30,
+  "search_pages": 1,
+  "channel_pages": 1,
+  "max_channels": 150,
+  "refresh_max_videos": 1200,
+  "refresh_hours": 20
+}

@@ -1,0 +1,18 @@
+# APIキー・個人設定は絶対にコミットしない
+.env
+.env.*
+!.env.example
+*.key
+logs/
+*.log
+__pycache__/
+*.py[cod]
+.venv/
+.vscode/
+__MACOSX/
+.DS_Store
+日本ライブカメラ収集DB/*-wal
+日本ライブカメラ収集DB/*-shm
+日本ライブカメラ収集DB/*.sqlite-wal
+日本ライブカメラ収集DB/*.sqlite-shm
+.automation.lock
