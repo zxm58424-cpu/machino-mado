@@ -72,8 +72,8 @@ def main():
     (BASE/'catalog.json').write_text(json.dumps(manifest,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
     encoded=json.dumps(manifest,ensure_ascii=True,separators=(',',':')).replace('<','\\u003c').replace('>','\\u003e').replace('&','\\u0026')
     template=(BASE/'template.html').read_text(encoding='utf-8')
-    css=(BASE/'style.css').read_text(encoding='utf-8')
-    javascript=(BASE/'app.js').read_text(encoding='utf-8')
+    css=(BASE/'style.css').read_text(encoding='utf-8')+'\n'+(BASE/'live-preview.css').read_text(encoding='utf-8')
+    javascript=(BASE/'app.js').read_text(encoding='utf-8')+'\n'+(BASE/'live-preview.js').read_text(encoding='utf-8')
     import base64
     fallback=['data:image/svg+xml;base64,'+base64.b64encode((BASE/'assets'/name).read_bytes()).decode('ascii') for name in ['landscape.svg','city.svg','coast.svg']]
     output=template.replace('/*__CATALOG_DATA__*/',f'window.CATALOG={encoded};')

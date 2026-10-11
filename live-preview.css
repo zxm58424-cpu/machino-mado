@@ -1,0 +1,16 @@
+/* YouTubeプレーヤーは200x200px以上、オーバーレイなし。 */
+.cards{grid-template-columns:repeat(2,minmax(0,1fr))}
+.cam .thumb{min-height:200px}
+.cam .thumb .inline-player{position:absolute;inset:0;z-index:4;background:#061526}
+.cam .thumb .inline-player[hidden]{display:none!important}
+.cam .thumb .inline-player iframe{display:block;width:100%;height:100%;border:0}
+.cam.inline-playing .thumb>button.thumb{visibility:hidden}
+.cam .tags .preview-fav{position:static;z-index:auto;margin-left:auto;flex-shrink:0;display:inline-grid;place-items:center;width:28px;height:27px;font-size:18px;line-height:1;color:#627f91;background:#f1f5f7;border:1px solid #dfe9ed;border-radius:6px}
+.cam .tags .preview-fav.on{color:#b57b15;background:#fff5df}
+.cam .card-actions{flex-wrap:wrap;gap:7px}
+.preview-select{background:#e8f4f0;border:1px solid #cbe9e0;color:#206c5d;border-radius:7px;padding:8px 10px;font-size:11px;font-weight:800}
+.preview-select[aria-pressed=true]{background:#daeeeb;color:#145d55}
+.preview-toggle{white-space:nowrap}
+.preview-toggle.preview-on{background:#e5f6f0;border-color:#b1e3d2;color:#186d5c}
+.preview-hint{font-size:10px;color:#738a98;width:100%;margin-top:-5px}
+@media(max-width:560px){.cards{grid-template-columns:1fr}.cam .thumb{min-height:200px}.preview-toggle{flex:1}}
