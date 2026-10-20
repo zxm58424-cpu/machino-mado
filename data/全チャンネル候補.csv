@@ -1,6 +1,6 @@
 ﻿channel_id,channel_title,channel_url,uploads_playlist_id,last_scan_utc,last_metadata_check_utc,video_count,camera_named,source_count,discovery_source
 UC-1uvY3U4sMSGi52IcT_fWQ,さとみ【すとぷり】,https://www.youtube.com/channel/UC-1uvY3U4sMSGi52IcT_fWQ,,,,0,未判定,1,API検索（チャンネル）
-UC-Gpej6F3EVsxsKplMeUmYg,本田珈琲店 | Niseko Mt Yotei Views & Ambience,https://www.youtube.com/channel/UC-Gpej6F3EVsxsKplMeUmYg,,,,1,未判定,2,API検索（動画）
+UC-Gpej6F3EVsxsKplMeUmYg,本田珈琲店 | Niseko Mt Yotei Views & Ambience,https://www.youtube.com/channel/UC-Gpej6F3EVsxsKplMeUmYg,,,,1,未判定,3,API検索（動画）
 UC-bPJdfIq5zqIP_PQ7rUJaA,Railstream,https://www.youtube.com/channel/UC-bPJdfIq5zqIP_PQ7rUJaA,,,,1,未判定,2,API検索（動画）
 UC-g_O9HWb5B0rVDG1hLd5Hw,EYstreem,https://www.youtube.com/channel/UC-g_O9HWb5B0rVDG1hLd5Hw,,,,0,未判定,1,API検索（チャンネル）
 UC-hZ0n2m6u1EE3fS7UNDqpg,秋吉台台観望ライブカメラ,https://www.youtube.com/channel/UC-hZ0n2m6u1EE3fS7UNDqpg,,,,0,有,1,API検索（チャンネル）
@@ -75,7 +75,7 @@ UC34EHoJeSxVsD-qPY9O4hRA,ねねログ / 島根,https://www.youtube.com/channel/U
 UC34eMne6xBmBqsAfA8q8ZAg,BGV Cam,https://www.youtube.com/channel/UC34eMne6xBmBqsAfA8q8ZAg,,,,2,未判定,7,旧CSV
 UC3C3YOGFjn7Pq3lOCeUFHfg,花江夏樹,https://www.youtube.com/channel/UC3C3YOGFjn7Pq3lOCeUFHfg,,,,0,未判定,1,API検索（チャンネル）
 UC3D6ZIuBbLNZri9VztaZTiA,青ヶ島ちゃんねる AOGASHIMA Channel,https://www.youtube.com/channel/UC3D6ZIuBbLNZri9VztaZTiA,,,,0,未判定,1,API検索（チャンネル）
-UC3IqtfSTFjXK5hhFqeTgJkw,yuki nomad,https://www.youtube.com/channel/UC3IqtfSTFjXK5hhFqeTgJkw,,,,1,未判定,6,旧CSV
+UC3IqtfSTFjXK5hhFqeTgJkw,yuki nomad,https://www.youtube.com/channel/UC3IqtfSTFjXK5hhFqeTgJkw,,,,2,未判定,7,旧CSV
 UC3JmRhRMCU1s8Sje92F8kCA,taro japan,https://www.youtube.com/channel/UC3JmRhRMCU1s8Sje92F8kCA,,,,0,未判定,1,API検索（チャンネル）
 UC3KzSCEr5MchnHIXo9jgAlg,牧歌の里あんこちゃんねる,https://www.youtube.com/channel/UC3KzSCEr5MchnHIXo9jgAlg,,,,0,未判定,1,API検索（チャンネル）
 UC3OEjpxIArdC0Sszqgw0V0A,庭師の目1000,https://www.youtube.com/channel/UC3OEjpxIArdC0Sszqgw0V0A,,,,0,未判定,2,API検索（チャンネル）
@@ -311,6 +311,7 @@ UCCLnJzwda_Kcdkok3et7n0A,歌舞伎町 ライブ ちゃんねる『 Kabukicho Liv
 UCCMNZDlF_4bLE9ILluHI3qw,Japan Live Map,https://www.youtube.com/channel/UCCMNZDlF_4bLE9ILluHI3qw,,,,0,未判定,1,API検索（チャンネル）
 UCCN7hVYXmW-vmjhWo7UvRAQ,山形県山形市山寺観光ライブカメラ,https://www.youtube.com/channel/UCCN7hVYXmW-vmjhWo7UvRAQ,,,,2,有,3,旧CSV
 UCCPNrRMkjeYbmChUGNZ0CAA,にしやんチャンネル 防災部,https://www.youtube.com/channel/UCCPNrRMkjeYbmChUGNZ0CAA,,,,0,未判定,3,API検索（チャンネル）
+UCCTpf5c_9HDo_OSu3aX8uFQ,HBCニュース　北海道放送,https://www.youtube.com/channel/UCCTpf5c_9HDo_OSu3aX8uFQ,,,,1,未判定,2,API検索（動画）
 UCCV3JvqX4WBfMKnBHl4NiEQ,山形県酒田市下安町鳥海山ライブカメラ,https://www.youtube.com/channel/UCCV3JvqX4WBfMKnBHl4NiEQ,,,,2,有,3,旧CSV
 UCCX3Hxcl40N2_-4MPjpwxFA,ゆいまぁる☆YuiTube,https://www.youtube.com/channel/UCCX3Hxcl40N2_-4MPjpwxFA,,,,0,未判定,1,API検索（チャンネル）
 UCCZXKkpLB3BY1UH8jqPpu8w,静岡県富士市中之郷ライブカメラ,https://www.youtube.com/channel/UCCZXKkpLB3BY1UH8jqPpu8w,,,,2,有,3,旧CSV
@@ -343,13 +344,13 @@ UCDA_lpAurLQYi50X7k6PCwg,湯布院・由布岳ちゃんねる YUFUIN JAPAN,https
 UCDAbIheSsjqjYvFLD-juugA,京都　伏見稲荷　いのり　ギャラリー,https://www.youtube.com/channel/UCDAbIheSsjqjYvFLD-juugA,,,,0,未判定,1,API検索（チャンネル）
 UCDB1CV6cA9EABjhka7f2bJg,Livecamera Japan Fujiyama,https://www.youtube.com/channel/UCDB1CV6cA9EABjhka7f2bJg,,,,0,有,1,API検索（チャンネル）
 UCDFnS3bw1KH1UGKk1rX0rBA,宮島口地区周辺ライブカメラ,https://www.youtube.com/channel/UCDFnS3bw1KH1UGKk1rX0rBA,,,,0,有,2,API検索（チャンネル）
-UCDLDUOVN77uM8TakoGeQdYw,北海道苫小牧市表町交通状況ライブカメラ,https://www.youtube.com/channel/UCDLDUOVN77uM8TakoGeQdYw,UUDLDUOVN77uM8TakoGeQdYw,,2026-10-13T01:34:26Z,3,有,5,旧CSV
+UCDLDUOVN77uM8TakoGeQdYw,北海道苫小牧市表町交通状況ライブカメラ,https://www.youtube.com/channel/UCDLDUOVN77uM8TakoGeQdYw,UUDLDUOVN77uM8TakoGeQdYw,,2026-10-13T01:34:26Z,4,有,6,旧CSV
 UCDMTA9ODpNKG2ohw3gTf-Zw,館山城・山頂ライブカメラ,https://www.youtube.com/channel/UCDMTA9ODpNKG2ohw3gTf-Zw,,,,0,有,1,API検索（チャンネル）
 UCDP8Qr-S2KLpobAtJFVZC4g,福岡県嘉麻市平ライブカメラ,https://www.youtube.com/channel/UCDP8Qr-S2KLpobAtJFVZC4g,,,,2,有,3,旧CSV
 UCDPcL7hccR_-xbagQ60kL7w,北海道網走市緑町ライブカメラ,https://www.youtube.com/channel/UCDPcL7hccR_-xbagQ60kL7w,,,,2,有,3,旧CSV
 UCDQGloU2J3krCO1xuCeFXiQ,三重県津市西丸之内伊賀街道ライブカメラ,https://www.youtube.com/channel/UCDQGloU2J3krCO1xuCeFXiQ,,,,2,有,5,旧CSV
 UCDTaVk2Szoe1oR-I2JSKf4Q,東京都北区志茂ライブカメラ,https://www.youtube.com/channel/UCDTaVk2Szoe1oR-I2JSKf4Q,,,,0,有,2,API検索（チャンネル）
-UCDcLHEKOq9PQf8iwyjaHWZA,北海道札幌市中島公園通駅ライブカメラ,https://www.youtube.com/channel/UCDcLHEKOq9PQf8iwyjaHWZA,,,,1,有,2,旧CSV
+UCDcLHEKOq9PQf8iwyjaHWZA,北海道札幌市中島公園通駅ライブカメラ,https://www.youtube.com/channel/UCDcLHEKOq9PQf8iwyjaHWZA,,,,2,有,3,旧CSV
 UCDfQDbqZ7e7sWGExhu3lVBQ,黃人,https://www.youtube.com/channel/UCDfQDbqZ7e7sWGExhu3lVBQ,,,,3,未判定,3,旧CSV
 UCDg5IRYBsT9n007_uS5cjUA,千葉県八街市東吉田ライブカメラ,https://www.youtube.com/channel/UCDg5IRYBsT9n007_uS5cjUA,,,,3,有,4,旧CSV
 UCDhM2k2Cua-JdobAh5moMFg,ITZY,https://www.youtube.com/channel/UCDhM2k2Cua-JdobAh5moMFg,,,,1,未判定,2,API検索（動画）
@@ -367,7 +368,7 @@ UCE4TaKPzgGFDEjj9XJ-WZDw,Mira,https://www.youtube.com/channel/UCE4TaKPzgGFDEjj9X
 UCE5OKyfB1ZnuroaQQzlRGvw,Where's Chicky? - Cartoon in English,https://www.youtube.com/channel/UCE5OKyfB1ZnuroaQQzlRGvw,,,,0,未判定,1,API検索（チャンネル）
 UCE5ajTJVTrsmxZJ-V3y8CLA,ABA青森朝日放送,https://www.youtube.com/channel/UCE5ajTJVTrsmxZJ-V3y8CLA,,,,1,未判定,1,API動画詳細
 UCE8iubXENKm100GG4GLtzHw,魚沼産ちむちむチャンネル,https://www.youtube.com/channel/UCE8iubXENKm100GG4GLtzHw,,,,0,未判定,1,API検索（チャンネル）
-UCE9S9xMnFAwY_NiaTyLGNuw,北海道利尻郡利尻富士町鴛泊湾内ライブカメラ,https://www.youtube.com/channel/UCE9S9xMnFAwY_NiaTyLGNuw,,,,1,有,2,API検索（動画）
+UCE9S9xMnFAwY_NiaTyLGNuw,北海道利尻郡利尻富士町鴛泊湾内ライブカメラ,https://www.youtube.com/channel/UCE9S9xMnFAwY_NiaTyLGNuw,,,,2,有,3,API検索（動画）
 UCEAPA-fP1d5CiWFk80Sf1VQ,Kentucky Falcons,https://www.youtube.com/channel/UCEAPA-fP1d5CiWFk80Sf1VQ,,,,0,未判定,1,API検索（チャンネル）
 UCEDn0tLxpVqEvI3NJyE2DRA,波のスケッチ,https://www.youtube.com/channel/UCEDn0tLxpVqEvI3NJyE2DRA,,,,3,未判定,6,旧CSV
 UCEFcMMb6ROMz5OssJUHVAPw,栃木県栃木市箱森町栃木粕尾線ライブカメラ,https://www.youtube.com/channel/UCEFcMMb6ROMz5OssJUHVAPw,,,,2,有,3,旧CSV
@@ -725,7 +726,7 @@ UCOLGSHF7LfL-2svSfwsnOGQ,e-CAM(イーカム)チャンネル,https://www.youtube.
 UCOLVB0iYK8ahQ0mFn-lF-8g,SBSnews6,https://www.youtube.com/channel/UCOLVB0iYK8ahQ0mFn-lF-8g,,,,1,未判定,2,旧CSV
 UCOLyKIuLEqd02sWmG83FxAg,Hokkaido Sky Live 　【24時間配信】,https://www.youtube.com/channel/UCOLyKIuLEqd02sWmG83FxAg,,,,0,未判定,1,API検索（チャンネル）
 UCONF80UJZcajYSAflJIJmAQ,Photo Ami /クラブツーリズム写真部,https://www.youtube.com/channel/UCONF80UJZcajYSAflJIJmAQ,,,,0,未判定,1,API検索（チャンネル）
-UCONxIDHDIEERQp6tvwyFeUA,利尻富士が見える利尻島仙法志御崎ライブカメラ,https://www.youtube.com/channel/UCONxIDHDIEERQp6tvwyFeUA,,,,2,有,3,旧CSV
+UCONxIDHDIEERQp6tvwyFeUA,利尻富士が見える利尻島仙法志御崎ライブカメラ,https://www.youtube.com/channel/UCONxIDHDIEERQp6tvwyFeUA,,,,3,有,4,旧CSV
 UCOTzrKaVjOXRD6Yd75R_pcg,静岡県御前崎市御前崎ライブカメラ,https://www.youtube.com/channel/UCOTzrKaVjOXRD6Yd75R_pcg,,,,2,有,3,旧CSV
 UCOUCXSh9xZ8FL-2-y6jlo5A,ライブカメラ太郎,https://www.youtube.com/channel/UCOUCXSh9xZ8FL-2-y6jlo5A,,,,1,有,3,API検索（動画）
 UCOX4mHEvHdpsmUkhHjAiA0g,群馬県高崎市緑町ライブカメラ,https://www.youtube.com/channel/UCOX4mHEvHdpsmUkhHjAiA0g,,,,3,有,6,旧CSV
@@ -795,7 +796,7 @@ UCQcj-JgG6XA0hGcTYWnK3ig,鳥羽水族館 TOBA AQUARIUM,https://www.youtube.com/c
 UCQejnkADwqjZcWHO6s53TyQ,東京都板橋区三園笹目通りライブカメラ,https://www.youtube.com/channel/UCQejnkADwqjZcWHO6s53TyQ,,,,1,有,2,API検索（動画）
 UCQfWP-FCYnQM33LqaUdxgDA,鉄道立体交差LIVE CAMERA,https://www.youtube.com/channel/UCQfWP-FCYnQM33LqaUdxgDA,,,,0,有,1,API検索（チャンネル）
 UCQgdHZwMNe6PLIE0orKexQA,pasta surf 【千葉　太東サーフィン波情報】,https://www.youtube.com/channel/UCQgdHZwMNe6PLIE0orKexQA,,,,0,未判定,1,API検索（チャンネル）
-UCQhaZjODkIjuv38d-i5TVRw,カンテレNEWS,https://www.youtube.com/channel/UCQhaZjODkIjuv38d-i5TVRw,,,,0,未判定,1,API検索（チャンネル）
+UCQhaZjODkIjuv38d-i5TVRw,カンテレNEWS,https://www.youtube.com/channel/UCQhaZjODkIjuv38d-i5TVRw,,,,1,未判定,3,API検索（チャンネル）
 UCQkP3xM7uZ5Ht2-u28AfHvg,青森県八戸市大字八幡字上樋田ライブカメラ,https://www.youtube.com/channel/UCQkP3xM7uZ5Ht2-u28AfHvg,,,,2,有,3,旧CSV
 UCQl75_ZOEV_pu6kzspZ-Bug,すずしょうと,https://www.youtube.com/channel/UCQl75_ZOEV_pu6kzspZ-Bug,,,,0,未判定,1,API検索（チャンネル）
 UCQnSuJ_aYt4XRlvBnL4ak4Q,一般社団法人ふじさん駿河湾フェリー,https://www.youtube.com/channel/UCQnSuJ_aYt4XRlvBnL4ak4Q,,,,1,未判定,3,旧CSV
@@ -817,12 +818,12 @@ UCRCQg9q8GvsUT0MvyXBh5xA,北海道苫小牧市桜木町ライブ,https://www.you
 UCRIoopnO9cO-NuLuoheTUiA,電車とって君チャンネル,https://www.youtube.com/channel/UCRIoopnO9cO-NuLuoheTUiA,,,,1,未判定,2,旧CSV
 UCRPa4ZqA5JsZREv3gN7Fk8A,埼玉県深谷市西島町深谷駅前ライブカメラ,https://www.youtube.com/channel/UCRPa4ZqA5JsZREv3gN7Fk8A,,,,3,有,8,旧CSV
 UCRRDg42wvd-eWZ2t-1EPTHg,Yokohama Train View 横浜トレインビュー ,https://www.youtube.com/channel/UCRRDg42wvd-eWZ2t-1EPTHg,,,,0,未判定,1,API検索（チャンネル）
-UCRS-6uaBdY9bF6tN67xolXQ,北海道釧路市大町弊舞橋ライブカメラ,https://www.youtube.com/channel/UCRS-6uaBdY9bF6tN67xolXQ,,,,1,有,2,旧CSV
+UCRS-6uaBdY9bF6tN67xolXQ,北海道釧路市大町弊舞橋ライブカメラ,https://www.youtube.com/channel/UCRS-6uaBdY9bF6tN67xolXQ,,,,2,有,3,旧CSV
 UCRSw-ly5AVRccjk-BzkFfrA,栃木県小山市神鳥谷ライブカメラ,https://www.youtube.com/channel/UCRSw-ly5AVRccjk-BzkFfrA,,,,1,有,2,旧CSV
 UCRWFSbif-RFENbBrSiez1DA,ABP NEWS,https://www.youtube.com/channel/UCRWFSbif-RFENbBrSiez1DA,,,,1,未判定,2,旧CSV
 UCRWvt7zz_iGnxEy-I1B_Apw,山口県山口市鋳銭司ライブカメラ,https://www.youtube.com/channel/UCRWvt7zz_iGnxEy-I1B_Apw,,,,3,有,6,旧CSV
 UCRZMs9s1P6o0b1nGibmtkJA,共同通信LiveCamera,https://www.youtube.com/channel/UCRZMs9s1P6o0b1nGibmtkJA,UURZMs9s1P6o0b1nGibmtkJA,,2026-10-11T10:19:59Z,1,有,4,API検索（チャンネル）
-UCRZplV8vE67bgCI6_3sm3mQ,たぬきやLIVE,https://www.youtube.com/channel/UCRZplV8vE67bgCI6_3sm3mQ,,,,1,未判定,10,旧CSV
+UCRZplV8vE67bgCI6_3sm3mQ,たぬきやLIVE,https://www.youtube.com/channel/UCRZplV8vE67bgCI6_3sm3mQ,,,,2,未判定,11,旧CSV
 UCRaS69ZXrl1x-Knea5OwHvg,埼玉県さいたま市西区ライブカメラ,https://www.youtube.com/channel/UCRaS69ZXrl1x-Knea5OwHvg,,,,2,有,4,旧CSV
 UCRa_6iSVr6yxcqiwBT2-18g,国土交通省 月山ダム管理所,https://www.youtube.com/channel/UCRa_6iSVr6yxcqiwBT2-18g,,,,0,未判定,1,API検索（チャンネル）
 UCRb3-Nt6Z6JQmJHMyMgsLkA,天王寺動物園(Osaka Tennoji Zoo),https://www.youtube.com/channel/UCRb3-Nt6Z6JQmJHMyMgsLkA,,,,0,未判定,1,API検索（チャンネル）
@@ -1124,7 +1125,7 @@ UC_Ah4M1mOd8TW0Ou7X5wJ7w,筑波山チャンネル,https://www.youtube.com/channe
 UC_CHLVHFArP1IO9k7kXNCLw,宮崎県宮崎市熊野木花駅ライブカメラ,https://www.youtube.com/channel/UC_CHLVHFArP1IO9k7kXNCLw,,,,2,有,3,旧CSV
 UC_CQ_lOg5UwG-gjOPSref8w,磯村大和,https://www.youtube.com/channel/UC_CQ_lOg5UwG-gjOPSref8w,,,,0,未判定,1,API検索（チャンネル）
 UC_E_W1eZrXD1Pwmy6MP9dFA,千葉県山武郡九十九里町粟生ライブカメラ,https://www.youtube.com/channel/UC_E_W1eZrXD1Pwmy6MP9dFA,,,,2,有,4,旧CSV
-UC_GOEAkyMWPTrF8LF_HunRA,釧路夕焼け倶楽部,https://www.youtube.com/channel/UC_GOEAkyMWPTrF8LF_HunRA,,,,1,未判定,3,旧CSV
+UC_GOEAkyMWPTrF8LF_HunRA,釧路夕焼け倶楽部,https://www.youtube.com/channel/UC_GOEAkyMWPTrF8LF_HunRA,,,,2,未判定,5,旧CSV
 UC_HFn3OZDRACDGwN0WA2jdg,北海道利尻富士町鴛泊字大磯ポロフンベライブカメラ,https://www.youtube.com/channel/UC_HFn3OZDRACDGwN0WA2jdg,,,,1,有,2,旧CSV
 UC_HX0GRMyc2Q8fjnjnVUwTw,のぼりべつクマ牧場 公式Youtubeチャンネル,https://www.youtube.com/channel/UC_HX0GRMyc2Q8fjnjnVUwTw,,,,0,未判定,3,API検索（チャンネル）
 UC_KW436oU3BC8ujlNeG6F9A,栃木県宇都宮市上戸祭町お天気ライブカメラ,https://www.youtube.com/channel/UC_KW436oU3BC8ujlNeG6F9A,,,,3,有,5,旧CSV
@@ -1355,7 +1356,7 @@ UCg9e1OjeEVES8ZrPMiIVrIg,yoko chin,https://www.youtube.com/channel/UCg9e1OjeEVES
 UCgAFMXtm3SmGp_kXW6li7Dw,山形県山形市香澄町山形駅前ライブカメラ,https://www.youtube.com/channel/UCgAFMXtm3SmGp_kXW6li7Dw,,,,3,有,5,旧CSV
 UCgBLW2E-wjtjYTZ0luUarHA,埼玉県川口市東領家ライブカメラ,https://www.youtube.com/channel/UCgBLW2E-wjtjYTZ0luUarHA,,,,2,有,3,旧CSV
 UCgDpleZQrhKAB3ggOJRTr8g,和歌山県和歌山市加太海岸ライブカメラ,https://www.youtube.com/channel/UCgDpleZQrhKAB3ggOJRTr8g,,,,3,有,5,旧CSV
-UCgGsiTcILD1heG9Ape93cEA,北海道利尻郡利尻富士町鴛泊湾内港方面ライブカメラ,https://www.youtube.com/channel/UCgGsiTcILD1heG9Ape93cEA,,,,1,有,2,API検索（動画）
+UCgGsiTcILD1heG9Ape93cEA,北海道利尻郡利尻富士町鴛泊湾内港方面ライブカメラ,https://www.youtube.com/channel/UCgGsiTcILD1heG9Ape93cEA,,,,2,有,3,API検索（動画）
 UCgKfoky1oVtslZdbTX9LGPQ,ライブ Scenery from MiraCosta,https://www.youtube.com/channel/UCgKfoky1oVtslZdbTX9LGPQ,,,,2,未判定,2,旧CSV
 UCgKxanlDCxPRXGRg2i_wm4g,ケイ,https://www.youtube.com/channel/UCgKxanlDCxPRXGRg2i_wm4g,,,,1,未判定,3,API検索（動画）
 UCgMPP6RRjktV7krOfyUewqw,はじめしゃちょー（hajime）,https://www.youtube.com/channel/UCgMPP6RRjktV7krOfyUewqw,,,,0,未判定,1,API検索（チャンネル）
@@ -1446,7 +1447,7 @@ UCir20snDEjXIJ8ZpAPenXXQ,長崎県諫早市貝津町ライブカメラ,https://w
 UCivvQeiUz7ytqcJgelMj07g,Chris Moon,https://www.youtube.com/channel/UCivvQeiUz7ytqcJgelMj07g,,,,0,未判定,1,API検索（チャンネル）
 UCiw35FfYgtTLIDROjhUzakQ,北海道札幌市北区北24条通ライブカメラ,https://www.youtube.com/channel/UCiw35FfYgtTLIDROjhUzakQ,,,,1,有,2,旧CSV
 UCiw39reqgNCUzRi-mgrFA6g,本光寺 Live,https://www.youtube.com/channel/UCiw39reqgNCUzRi-mgrFA6g,,,,0,未判定,1,API検索（チャンネル）
-UCix_G_zC5PZ_y0uL84hFCdQ,アウトバーン,https://www.youtube.com/channel/UCix_G_zC5PZ_y0uL84hFCdQ,,,,1,未判定,5,旧CSV
+UCix_G_zC5PZ_y0uL84hFCdQ,アウトバーン,https://www.youtube.com/channel/UCix_G_zC5PZ_y0uL84hFCdQ,,,,2,未判定,6,旧CSV
 UCiyFcGW64Gax0-aoIS05MRw,五島つばき空港,https://www.youtube.com/channel/UCiyFcGW64Gax0-aoIS05MRw,,,,1,未判定,3,API検索（動画）
 UCiymQ1dxDs9OclU9WL7pfXw,埼玉県深谷市上柴東日赤通りライブカメラ,https://www.youtube.com/channel/UCiymQ1dxDs9OclU9WL7pfXw,,,,2,有,3,旧CSV
 UCj0EhzPt7lMY42UuYekK4QA,埼玉県さいたま市西区西大宮ライブカメラ,https://www.youtube.com/channel/UCj0EhzPt7lMY42UuYekK4QA,,,,2,有,4,旧CSV
@@ -1479,7 +1480,7 @@ UCjngLF19d2ep1NcbaS30G7g,群馬県吾妻郡草津町 白根神社参道ライブ
 UCjr1mGeXZYjEy5LgdLucwfg,群馬県高崎市吉井町ライブカメラ,https://www.youtube.com/channel/UCjr1mGeXZYjEy5LgdLucwfg,,,,2,有,3,旧CSV
 UCjrmDIFACIXtrMybUoUQLQQ,高崎山自然動物園,https://www.youtube.com/channel/UCjrmDIFACIXtrMybUoUQLQQ,,,,0,未判定,1,API検索（チャンネル）
 UCjspx1NoK0vnET8Oc_7nDNA,クラウのモンテレイ暮らし / Clau,https://www.youtube.com/channel/UCjspx1NoK0vnET8Oc_7nDNA,,,,4,未判定,2,API検索（動画）
-UCjtQwW9En3Y7lmP5XXQuLrQ,北海道利尻富士町鴛泊字大磯　礼文島が見えるライブカメラ,https://www.youtube.com/channel/UCjtQwW9En3Y7lmP5XXQuLrQ,,,,1,有,2,旧CSV
+UCjtQwW9En3Y7lmP5XXQuLrQ,北海道利尻富士町鴛泊字大磯　礼文島が見えるライブカメラ,https://www.youtube.com/channel/UCjtQwW9En3Y7lmP5XXQuLrQ,,,,2,有,3,旧CSV
 UCjtznPqY4DKk7_NpNTl195w,清里高原LIFE,https://www.youtube.com/channel/UCjtznPqY4DKk7_NpNTl195w,,,,0,未判定,1,API検索（チャンネル）
 UCjuQDwDaDPewp8IgvBmQN5Q,LIVE RESMI,https://www.youtube.com/channel/UCjuQDwDaDPewp8IgvBmQN5Q,,,,1,未判定,2,旧CSV
 UCjurV17A5IQ6ZaIEhHZqdpQ,東京都武蔵野市中町さくら通りライブカメラ,https://www.youtube.com/channel/UCjurV17A5IQ6ZaIEhHZqdpQ,,,,1,有,2,旧CSV
@@ -1983,7 +1984,7 @@ UCyBT8BEqEPlWyD558BfbOlg,伊藤壮吾の鉄道チャンネル,https://www.youtub
 UCyCw-d47tZNhy7HrhI2ZzUA,小田学,https://www.youtube.com/channel/UCyCw-d47tZNhy7HrhI2ZzUA,,,,1,未判定,3,API検索（動画）
 UCyDvBZobbyhcFFsAmvE4LOQ,富士山ライブカメラ  山梨県富士吉田市,https://www.youtube.com/channel/UCyDvBZobbyhcFFsAmvE4LOQ,,,,1,有,2,API検索（動画）
 UCyL5Dj4aoB72VRgrFSxuoNg,徳島県阿南市日開野町谷田ライブカメラ,https://www.youtube.com/channel/UCyL5Dj4aoB72VRgrFSxuoNg,,,,2,有,3,旧CSV
-UCyNTOFpbKHGtkb3u2LqJTUg,兵庫県相生市垣内町ライブカメラ,https://www.youtube.com/channel/UCyNTOFpbKHGtkb3u2LqJTUg,,,,2,有,3,旧CSV
+UCyNTOFpbKHGtkb3u2LqJTUg,兵庫県相生市垣内町ライブカメラ,https://www.youtube.com/channel/UCyNTOFpbKHGtkb3u2LqJTUg,,,,3,有,4,旧CSV
 UCyPWNK8r9lQPDuDScjge6zQ,群馬県太田市新田市野井町ライブカメラ,https://www.youtube.com/channel/UCyPWNK8r9lQPDuDScjge6zQ,,,,2,有,3,旧CSV
 UCySRhxv911sNJ1-RFAHaW_A,北海道苫小牧市双葉町ライブカメラ,https://www.youtube.com/channel/UCySRhxv911sNJ1-RFAHaW_A,,,,1,有,2,旧CSV
 UCyXFHxhBkRY38LcQ06UAP0w,HitachiotaCam,https://www.youtube.com/channel/UCyXFHxhBkRY38LcQ06UAP0w,,,,0,未判定,1,API検索（チャンネル）
@@ -2030,22 +2031,7 @@ UCzveOOdDNoywnxTm6QyazPg,長野県松本市平田東ライブカメラ,https://w
 UCzyP_iM9oMIGk7RvmKr0wSw,北海道札幌市北区拓北六条ライブカメラ,https://www.youtube.com/channel/UCzyP_iM9oMIGk7RvmKr0wSw,,,,2,有,3,旧CSV
 UCzzNauFBCq3l7C9TrmiIo-g,川越TV,https://www.youtube.com/channel/UCzzNauFBCq3l7C9TrmiIo-g,,,,1,未判定,1,API動画詳細
 UC4SO_m6DMmGEb9j42C4zgAQ,【石川県羽咋市】千里浜ライブカメラ,https://www.youtube.com/channel/UC4SO_m6DMmGEb9j42C4zgAQ,UU4SO_m6DMmGEb9j42C4zgAQ,2026-10-12T01:34:38Z,2026-10-12T01:34:37Z,1,有,3,旧CSV
-UC0hN6dz60SDgfU222YYgdng,佐賀県佐賀市駅前中央1丁目通りライブカメラ,https://www.youtube.com/channel/UC0hN6dz60SDgfU222YYgdng,UU0hN6dz60SDgfU222YYgdng,2026-10-17T01:41:19Z,2026-10-11T10:20:34Z,61,有,5,旧CSV
-UC-OEK1wn73A5TXNGPwoTJtA,佐賀県佐賀市大和町尼寺ライブカメラ,https://www.youtube.com/channel/UC-OEK1wn73A5TXNGPwoTJtA,UU-OEK1wn73A5TXNGPwoTJtA,2026-10-17T01:41:20Z,2026-10-11T10:20:34Z,61,有,4,旧CSV
-UC0mezHji98oj6NRMBx098yA,佐賀県佐賀市木原ライブカメラ,https://www.youtube.com/channel/UC0mezHji98oj6NRMBx098yA,UU0mezHji98oj6NRMBx098yA,2026-10-17T01:41:23Z,2026-10-11T10:20:34Z,61,有,4,旧CSV
 UC5sJvoqqI_OjxqypYyllDZg,大阪府寝屋川市大利神社通商店街ライブカメラ,https://www.youtube.com/channel/UC5sJvoqqI_OjxqypYyllDZg,UU5sJvoqqI_OjxqypYyllDZg,2026-10-17T01:41:24Z,2026-10-12T01:34:37Z,60,有,6,旧CSV
-UCaeMPi5n_AJsMusYoKcfWwg,鳥取県米子市ライブカメラ,https://www.youtube.com/channel/UCaeMPi5n_AJsMusYoKcfWwg,UUaeMPi5n_AJsMusYoKcfWwg,2026-10-17T01:41:25Z,2026-10-11T10:20:00Z,61,有,8,旧CSV
-UClqiZswrbILTdMqEwSwT3qw,鹿児島県鹿児島市田上ライブカメラ,https://www.youtube.com/channel/UClqiZswrbILTdMqEwSwT3qw,UUlqiZswrbILTdMqEwSwT3qw,2026-10-17T01:41:28Z,2026-10-11T10:20:34Z,61,有,7,旧CSV
-UC3FFNoHLo6_djlPnVPD8nYA,高知県高知市仁井田ライブカメラ,https://www.youtube.com/channel/UC3FFNoHLo6_djlPnVPD8nYA,UU3FFNoHLo6_djlPnVPD8nYA,2026-10-17T01:41:32Z,2026-10-11T10:20:00Z,61,有,5,旧CSV
-UC9MMvkfuF5-SbvYHEhAGo5Q,熊本県熊本市北区下硯川ライブカメラ,https://www.youtube.com/channel/UC9MMvkfuF5-SbvYHEhAGo5Q,UU9MMvkfuF5-SbvYHEhAGo5Q,2026-10-17T01:41:33Z,2026-10-11T10:20:00Z,61,有,4,旧CSV
-UCDQUxTLSRp48XxHfMe5S4Jg,鳥取県八頭郡八頭町井古ライブカメラ,https://www.youtube.com/channel/UCDQUxTLSRp48XxHfMe5S4Jg,UUDQUxTLSRp48XxHfMe5S4Jg,2026-10-17T01:41:34Z,2026-10-11T10:20:00Z,61,有,4,旧CSV
-UCNwU0j7LxRGFVbmuzYw2W_g,鹿児島県鹿児島市東谷山市電ライブカメラ,https://www.youtube.com/channel/UCNwU0j7LxRGFVbmuzYw2W_g,UUNwU0j7LxRGFVbmuzYw2W_g,2026-10-17T01:41:35Z,2026-10-11T10:20:00Z,61,有,5,旧CSV
-UCRALjq9bdLtS9ervr45sIcw,鹿児島県鹿児島市城山町ライブカメラ,https://www.youtube.com/channel/UCRALjq9bdLtS9ervr45sIcw,UURALjq9bdLtS9ervr45sIcw,2026-10-17T01:41:36Z,2026-10-11T10:20:00Z,61,有,4,旧CSV
-UC_BUDXg-ERvXvyA4ekQDHKA,奈良県奈良市大宮町ライブカメラ,https://www.youtube.com/channel/UC_BUDXg-ERvXvyA4ekQDHKA,UU_BUDXg-ERvXvyA4ekQDHKA,2026-10-17T01:41:37Z,2026-10-11T10:20:00Z,61,有,6,旧CSV
-UCdpvGwSESOrvjPxwiwKX6Xg,熊本県熊本市南区近見ライブカメラ,https://www.youtube.com/channel/UCdpvGwSESOrvjPxwiwKX6Xg,UUdpvGwSESOrvjPxwiwKX6Xg,2026-10-17T01:41:38Z,2026-10-11T10:20:00Z,61,有,4,旧CSV
-UCfl9lHgCmjzeiCcFEIC0dWA,大分県大分市高城本町原川ライブカメラ,https://www.youtube.com/channel/UCfl9lHgCmjzeiCcFEIC0dWA,UUfl9lHgCmjzeiCcFEIC0dWA,2026-10-17T01:41:39Z,2026-10-11T10:20:00Z,61,有,4,旧CSV
-UCx7CUAfpLdunhWOcLCNBvZg,大分県大分市新貝ライブカメラ,https://www.youtube.com/channel/UCx7CUAfpLdunhWOcLCNBvZg,UUx7CUAfpLdunhWOcLCNBvZg,2026-10-17T01:41:42Z,2026-10-11T10:20:34Z,61,有,4,旧CSV
-UC-UPZryrJCyS_GGZiCcLY8g,山形県東根市温泉町ライブカメラ,https://www.youtube.com/channel/UC-UPZryrJCyS_GGZiCcLY8g,UU-UPZryrJCyS_GGZiCcLY8g,2026-10-17T01:41:45Z,2026-10-11T10:20:34Z,61,有,3,旧CSV
 UC-a2ihKN-SYxUBsKPdH7MVw,北海道上川郡美瑛町 大雪山連峰十勝岳ライブカメラ,https://www.youtube.com/channel/UC-a2ihKN-SYxUBsKPdH7MVw,UU-a2ihKN-SYxUBsKPdH7MVw,2026-10-17T01:41:49Z,2026-10-11T10:20:34Z,61,有,3,旧CSV
 UC032yh4oTomzOOh95jdxsZQ,山形県天童市鍬ノ町水晶山麓ライブカメラ,https://www.youtube.com/channel/UC032yh4oTomzOOh95jdxsZQ,UU032yh4oTomzOOh95jdxsZQ,2026-10-17T01:41:52Z,2026-10-11T10:20:34Z,61,有,3,旧CSV
 UC0I4ImwnbX68CFNfrKsYO5Q,山形県山形市南原町1丁目ライブカメラ,https://www.youtube.com/channel/UC0I4ImwnbX68CFNfrKsYO5Q,UU0I4ImwnbX68CFNfrKsYO5Q,2026-10-17T01:41:54Z,2026-10-11T10:20:34Z,61,有,3,旧CSV
@@ -2068,33 +2054,11 @@ UC6eR9hLT3qNKgEozIDs0P2A,島根県松江市東出雲町国道9号線ライブカ
 UC6kshyGVcqTOimEkrg_Tu0A,千葉県君津市東坂田ライブカメラ,https://www.youtube.com/channel/UC6kshyGVcqTOimEkrg_Tu0A,UU6kshyGVcqTOimEkrg_Tu0A,2026-10-17T01:42:16Z,2026-10-12T01:34:37Z,59,有,5,旧CSV
 UCAsJRFkehkDUFm34MNE6x0w,三重県四日市市青葉町ライブカメラ,https://www.youtube.com/channel/UCAsJRFkehkDUFm34MNE6x0w,UUAsJRFkehkDUFm34MNE6x0w,2026-10-17T01:42:18Z,2026-10-13T01:34:26Z,58,有,6,旧CSV
 UC8G4C-GpexZP7_AkuB37wHw,阪神高速3号神戸線 京橋PA付近 ライブカメラ,https://www.youtube.com/channel/UC8G4C-GpexZP7_AkuB37wHw,UU8G4C-GpexZP7_AkuB37wHw,2026-10-17T01:42:19Z,2026-10-12T01:34:37Z,55,有,10,旧CSV
-UC5-ZRW-h2nvHd19__XaGjPQ,福島県福島市八木田ライブカメラ,https://www.youtube.com/channel/UC5-ZRW-h2nvHd19__XaGjPQ,UU5-ZRW-h2nvHd19__XaGjPQ,2026-10-18T01:41:43Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC54RNpR5RnL9i2BwcHcNzeQ,神奈川県三浦郡葉山町一色かるがも通り下山川ライブカメラ,https://www.youtube.com/channel/UC54RNpR5RnL9i2BwcHcNzeQ,UU54RNpR5RnL9i2BwcHcNzeQ,2026-10-18T01:41:44Z,2026-10-12T01:34:37Z,62,有,5,旧CSV
-UC59KnUTtmRQWAMF5VhcIgmA,佐賀県佐賀市兵庫南ライブカメラ,https://www.youtube.com/channel/UC59KnUTtmRQWAMF5VhcIgmA,UU59KnUTtmRQWAMF5VhcIgmA,2026-10-18T01:41:45Z,2026-10-12T01:34:37Z,62,有,5,旧CSV
-UC5Dpv3I7NdqggwVjCAEIqRA,千葉県山武郡九十九里町下貝塚ライブカメラ,https://www.youtube.com/channel/UC5Dpv3I7NdqggwVjCAEIqRA,UU5Dpv3I7NdqggwVjCAEIqRA,2026-10-18T01:41:46Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC5Mr3Er9Noc--iKxmsPn7tA,岡山県倉敷市二日市ライブカメラ,https://www.youtube.com/channel/UC5Mr3Er9Noc--iKxmsPn7tA,UU5Mr3Er9Noc--iKxmsPn7tA,2026-10-18T01:41:48Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC5NDEEBTMfhUbuaqdqWW_-Q,山形県山形市松栄県道17号線ライブカメラ,https://www.youtube.com/channel/UC5NDEEBTMfhUbuaqdqWW_-Q,UU5NDEEBTMfhUbuaqdqWW_-Q,2026-10-18T01:41:49Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC5WleQtJxmAa301fAJwpi7Q,富山県南砺市閑乗寺公園ライブカメラ,https://www.youtube.com/channel/UC5WleQtJxmAa301fAJwpi7Q,UU5WleQtJxmAa301fAJwpi7Q,2026-10-18T01:41:51Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC5fBsz2KmMrVZxHCBx_HTew,大阪府寝屋川市大利町ライブカメラ,https://www.youtube.com/channel/UC5fBsz2KmMrVZxHCBx_HTew,UU5fBsz2KmMrVZxHCBx_HTew,2026-10-18T01:41:52Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC5gG_KwzI8IQYNTtQekKs8g,宮崎県えびの市大明司ライブカメラ,https://www.youtube.com/channel/UC5gG_KwzI8IQYNTtQekKs8g,UU5gG_KwzI8IQYNTtQekKs8g,2026-10-18T01:41:53Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC68wrThTWqC8Z-7d68LRi9g,長野県須坂市大字仁礼ライブカメラ,https://www.youtube.com/channel/UC68wrThTWqC8Z-7d68LRi9g,UU68wrThTWqC8Z-7d68LRi9g,2026-10-18T01:41:55Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC6Qu5jpAIXUpmuxx-oTIxhQ,神奈川県伊勢原市笠窪ライブカメラ,https://www.youtube.com/channel/UC6Qu5jpAIXUpmuxx-oTIxhQ,UU6Qu5jpAIXUpmuxx-oTIxhQ,2026-10-18T01:41:56Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC6qB8_c5l6y1AJHL_7Rj4ug,京都府京都市左京区北白川久保田町ライブカメラ,https://www.youtube.com/channel/UC6qB8_c5l6y1AJHL_7Rj4ug,UU6qB8_c5l6y1AJHL_7Rj4ug,2026-10-18T01:41:58Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC6tNPKq6eE3xUZmvlT3wjkA,三重県多気郡明和町大淀寺前ライブカメラ,https://www.youtube.com/channel/UC6tNPKq6eE3xUZmvlT3wjkA,UU6tNPKq6eE3xUZmvlT3wjkA,2026-10-18T01:41:59Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC6wO9VRqGRTiSVEJX8Sz-jQ,東京都調布市調布ケ丘ライブカメラ,https://www.youtube.com/channel/UC6wO9VRqGRTiSVEJX8Sz-jQ,UU6wO9VRqGRTiSVEJX8Sz-jQ,2026-10-18T01:42:00Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC6wuijUhb0L5fDprjgX16BA,栃木県下都賀郡壬生町駅東町ライブカメラ,https://www.youtube.com/channel/UC6wuijUhb0L5fDprjgX16BA,UU6wuijUhb0L5fDprjgX16BA,2026-10-18T01:42:01Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC7ERI3vks8ca-Q7RfgCl2Dw,山梨県北杜市小淵沢町ライブカメラ,https://www.youtube.com/channel/UC7ERI3vks8ca-Q7RfgCl2Dw,UU7ERI3vks8ca-Q7RfgCl2Dw,2026-10-18T01:42:03Z,2026-10-12T01:34:37Z,62,有,4,旧CSV
-UC1KzzC2wpPBUCLhGGgU3q6g,山形県山形市若葉町道路沿いライブカメラ,https://www.youtube.com/channel/UC1KzzC2wpPBUCLhGGgU3q6g,UU1KzzC2wpPBUCLhGGgU3q6g,2026-10-18T01:42:04Z,2026-10-11T10:20:34Z,62,有,3,旧CSV
-UC230gUwvxTsqopk_L2iBqUQ,佐賀県佐賀市大和町久池井ライブカメラ,https://www.youtube.com/channel/UC230gUwvxTsqopk_L2iBqUQ,UU230gUwvxTsqopk_L2iBqUQ,2026-10-18T01:42:05Z,2026-10-11T10:20:34Z,62,有,3,旧CSV
-UC3_VH5DSi8n3Zl6JEl4tiGg,青森県 青森市金沢ライブカメラ,https://www.youtube.com/channel/UC3_VH5DSi8n3Zl6JEl4tiGg,UU3_VH5DSi8n3Zl6JEl4tiGg,2026-10-18T01:42:06Z,2026-10-12T01:33:45Z,62,有,3,旧CSV
-UC5sdwVvuFQu37XdZAGEOgPw, 山形県山形市あかねケ丘大通りライブカメラ,https://www.youtube.com/channel/UC5sdwVvuFQu37XdZAGEOgPw,UU5sdwVvuFQu37XdZAGEOgPw,2026-10-18T01:42:07Z,2026-10-12T01:34:37Z,62,有,3,旧CSV
-UC6hbK04MKTIf2Hr0Ya9t0WA,北海道札幌市東区北五十条東ライブカメラ,https://www.youtube.com/channel/UC6hbK04MKTIf2Hr0Ya9t0WA,UU6hbK04MKTIf2Hr0Ya9t0WA,2026-10-18T01:42:08Z,2026-10-12T01:34:37Z,62,有,3,旧CSV
-UC6wcS_VaTC9PvAJd_sEC_Nw,山形県東根市神町西ライブカメラ,https://www.youtube.com/channel/UC6wcS_VaTC9PvAJd_sEC_Nw,UU6wcS_VaTC9PvAJd_sEC_Nw,2026-10-18T01:42:09Z,2026-10-12T01:34:37Z,62,有,3,旧CSV
 UC2vBDfWZRaUswH69Gfn-Mdw,大阪府吹田市千里山月が丘ライブカメラ,https://www.youtube.com/channel/UC2vBDfWZRaUswH69Gfn-Mdw,UU2vBDfWZRaUswH69Gfn-Mdw,2026-10-18T01:42:13Z,2026-10-11T10:20:34Z,60,有,5,旧CSV
 UC3kfuS_vO1mxYP-YqDgHHHw,北海道利尻郡利尻町仙法志御崎海岸ライブカメラ,https://www.youtube.com/channel/UC3kfuS_vO1mxYP-YqDgHHHw,UU3kfuS_vO1mxYP-YqDgHHHw,2026-10-18T01:42:14Z,2026-10-12T01:33:45Z,60,有,4,旧CSV
 UC438pNYtU0kpnor1vu1DC9A,長野県 岡谷市今井ライブカメラ,https://www.youtube.com/channel/UC438pNYtU0kpnor1vu1DC9A,UU438pNYtU0kpnor1vu1DC9A,2026-10-18T01:42:15Z,2026-10-12T01:33:45Z,60,有,4,旧CSV
 UC032e6PkTtAJyJ4TX4omaaQ,岡山県岡山市南区中畦ライブカメラ,https://www.youtube.com/channel/UC032e6PkTtAJyJ4TX4omaaQ,UU032e6PkTtAJyJ4TX4omaaQ,2026-10-18T01:42:16Z,2026-10-11T10:20:34Z,60,有,4,旧CSV
-UC7FrwA-BfBivch7mClwiE4A,北海道札幌市手稲区前田五条14丁目ライブカメラ,https://www.youtube.com/channel/UC7FrwA-BfBivch7mClwiE4A,UU7FrwA-BfBivch7mClwiE4A,2026-10-18T01:42:17Z,2026-10-12T01:34:37Z,60,有,4,旧CSV
+UC7FrwA-BfBivch7mClwiE4A,北海道札幌市手稲区前田五条14丁目ライブカメラ,https://www.youtube.com/channel/UC7FrwA-BfBivch7mClwiE4A,UU7FrwA-BfBivch7mClwiE4A,2026-10-18T01:42:17Z,2026-10-12T01:34:37Z,61,有,5,旧CSV
 UCvCquR4Rwfk-4AzquPKEAVw,北海道礼文郡礼文町香深村シャクニンライブカメラ,https://www.youtube.com/channel/UCvCquR4Rwfk-4AzquPKEAVw,UUvCquR4Rwfk-4AzquPKEAVw,2026-10-18T01:42:18Z,2026-10-13T01:34:26Z,60,有,6,旧CSV
 UC7XeoMOO1eLnRT6HfHjaVQw,徳島県徳島市南田宮ライブカメラ,https://www.youtube.com/channel/UC7XeoMOO1eLnRT6HfHjaVQw,UU7XeoMOO1eLnRT6HfHjaVQw,2026-10-18T01:42:20Z,2026-10-12T01:34:37Z,60,有,5,旧CSV
 UC7zpLBKRKAYfNEnjJRj6otA,北海道滝川市幸町函館本線付近ライブカメラ,https://www.youtube.com/channel/UC7zpLBKRKAYfNEnjJRj6otA,UU7zpLBKRKAYfNEnjJRj6otA,2026-10-18T01:42:21Z,2026-10-12T01:34:37Z,61,有,6,旧CSV
@@ -2112,67 +2076,13 @@ UC-IdV8-wVYvHPngEUJQf7Ug,北海道天塩郡豊富町ライブカメラ,https://w
 UC2zXzh4Zd7o9b_bMD9aVIVw,宮城県仙台市宮城野区燕沢東ライブカメラ,https://www.youtube.com/channel/UC2zXzh4Zd7o9b_bMD9aVIVw,UU2zXzh4Zd7o9b_bMD9aVIVw,2026-10-18T01:42:34Z,2026-10-12T01:33:45Z,32,有,5,旧CSV
 UC6Ljvl0Kghy9Fhe6SXViTPw,東京駅トレインビュー🚄ライブカメラ,https://www.youtube.com/channel/UC6Ljvl0Kghy9Fhe6SXViTPw,UU6Ljvl0Kghy9Fhe6SXViTPw,2026-10-18T01:42:34Z,2026-10-12T01:34:37Z,26,有,10,旧CSV
 UC4lQKRpFuYblqEBX8stJiGA,江戸川ライブカメラ365 / Tokyo Edogawa Live Camera 365,https://www.youtube.com/channel/UC4lQKRpFuYblqEBX8stJiGA,UU4lQKRpFuYblqEBX8stJiGA,2026-10-18T01:42:35Z,2026-10-12T01:34:37Z,30,有,9,旧CSV
-UCynX4LJTQ_H7_KPy7QiIS2A,HAKODATE LIVE CAMERA,https://www.youtube.com/channel/UCynX4LJTQ_H7_KPy7QiIS2A,UUynX4LJTQ_H7_KPy7QiIS2A,2026-10-18T01:42:35Z,2026-10-11T10:20:34Z,24,有,19,旧CSV
+UCynX4LJTQ_H7_KPy7QiIS2A,HAKODATE LIVE CAMERA,https://www.youtube.com/channel/UCynX4LJTQ_H7_KPy7QiIS2A,UUynX4LJTQ_H7_KPy7QiIS2A,2026-10-18T01:42:35Z,2026-10-11T10:20:34Z,24,有,20,旧CSV
 UC5-aLDNwlgvdBHqCa0aU0Kw,北海道北見市常盤町ライブカメラ,https://www.youtube.com/channel/UC5-aLDNwlgvdBHqCa0aU0Kw,UU5-aLDNwlgvdBHqCa0aU0Kw,2026-10-18T01:42:36Z,2026-10-12T01:34:37Z,27,有,3,旧CSV
 UC-UeK3gwBhmxT6EBRAptTFw,北海道利尻郡利尻富士町鴛泊字港町ライブカメラ,https://www.youtube.com/channel/UC-UeK3gwBhmxT6EBRAptTFw,UU-UeK3gwBhmxT6EBRAptTFw,2026-10-18T01:42:37Z,2026-10-11T10:20:00Z,23,有,3,旧CSV
 UC2QvBzpmCuA8_DuMikz9WVw,佐賀県佐賀市大財交差点ライブカメラ,https://www.youtube.com/channel/UC2QvBzpmCuA8_DuMikz9WVw,UU2QvBzpmCuA8_DuMikz9WVw,2026-10-18T01:42:37Z,2026-10-11T10:20:34Z,26,有,4,旧CSV
 UC1ECUslq_cP7ueTqfVX0ARQ,山形県天童市交り江交差点ライブカメラ,https://www.youtube.com/channel/UC1ECUslq_cP7ueTqfVX0ARQ,UU1ECUslq_cP7ueTqfVX0ARQ,2026-10-18T01:42:38Z,2026-10-11T10:20:34Z,23,有,7,旧CSV
 UC5iiaaAkZf_BNPu85pcozfA,佐賀県佐賀市鍋島町蛎久 脊振山が見えるライブカメラ,https://www.youtube.com/channel/UC5iiaaAkZf_BNPu85pcozfA,UU5iiaaAkZf_BNPu85pcozfA,2026-10-18T01:42:39Z,2026-10-12T01:34:37Z,22,有,3,旧CSV
 UCjUUHJIGClFkfPPk0LWXNAg,立山山頂ライブカメラ tateyama now【公式】,https://www.youtube.com/channel/UCjUUHJIGClFkfPPk0LWXNAg,UUjUUHJIGClFkfPPk0LWXNAg,2026-10-18T01:42:39Z,2026-10-11T10:20:34Z,11,有,14,旧CSV
-UC0bo0F5nUfsHTgUWf3FKrIw,KABUKICHO,https://www.youtube.com/channel/UC0bo0F5nUfsHTgUWf3FKrIw,UU0bo0F5nUfsHTgUWf3FKrIw,2026-10-19T01:44:03Z,2026-10-11T10:20:00Z,61,未判定,4,外部掲載チャンネル
-UCynXCHprmOfyGzGSnqgp6Wg,株式会社 上野城公式,https://www.youtube.com/channel/UCynXCHprmOfyGzGSnqgp6Wg,UUynXCHprmOfyGzGSnqgp6Wg,2026-10-19T01:44:04Z,2026-10-11T10:20:00Z,47,未判定,4,外部掲載チャンネル
-UCDoo6BDBM70pQQfmoG640Bg,鉄道動画ch,https://www.youtube.com/channel/UCDoo6BDBM70pQQfmoG640Bg,UUDoo6BDBM70pQQfmoG640Bg,2026-10-19T01:44:05Z,2026-10-11T10:19:59Z,27,未判定,3,外部掲載チャンネル
-UCQ2mmGKtrBp6rL8tSMJCCwA,ラジカルビデオジョッキー RVJJP,https://www.youtube.com/channel/UCQ2mmGKtrBp6rL8tSMJCCwA,UUQ2mmGKtrBp6rL8tSMJCCwA,2026-10-19T01:44:05Z,2026-10-11T10:20:00Z,47,未判定,3,外部掲載チャンネル
-UCu76uqpelv-VALL5d6zsljg,神田ライブチャンネル(Kanda live channel),https://www.youtube.com/channel/UCu76uqpelv-VALL5d6zsljg,UUu76uqpelv-VALL5d6zsljg,2026-10-19T01:44:05Z,2026-10-11T10:20:00Z,29,未判定,4,外部掲載チャンネル
-UC7lHIZbQzHILorlX4R0izsw,starstyle,https://www.youtube.com/channel/UC7lHIZbQzHILorlX4R0izsw,UU7lHIZbQzHILorlX4R0izsw,2026-10-19T01:44:06Z,2026-10-11T10:20:00Z,28,未判定,3,外部掲載チャンネル
-UCZ974tQkAeV7_l_opPHCcdg,The Dramatic 中央本線。,https://www.youtube.com/channel/UCZ974tQkAeV7_l_opPHCcdg,UUZ974tQkAeV7_l_opPHCcdg,2026-10-19T01:44:06Z,2026-10-11T10:20:00Z,17,未判定,5,外部掲載チャンネル
-UCAaw-OnuKB5FTpBkM0xUZ4Q,中条駅観光交流室,https://www.youtube.com/channel/UCAaw-OnuKB5FTpBkM0xUZ4Q,UUAaw-OnuKB5FTpBkM0xUZ4Q,2026-10-19T01:44:07Z,2026-10-11T10:20:00Z,6,未判定,3,外部掲載チャンネル
-UCTY5Gt9CxQcKVdHX6RFgojQ,会津東山温泉向瀧・mukaitaki,https://www.youtube.com/channel/UCTY5Gt9CxQcKVdHX6RFgojQ,UUTY5Gt9CxQcKVdHX6RFgojQ,2026-10-19T01:44:07Z,2026-10-11T10:20:00Z,20,未判定,3,外部掲載チャンネル
-UCwzJctz6m-0wG_evkheecZA,フジヤマNAVI,https://www.youtube.com/channel/UCwzJctz6m-0wG_evkheecZA,UUwzJctz6m-0wG_evkheecZA,2026-10-19T01:44:07Z,2026-10-11T10:20:00Z,14,未判定,3,外部掲載チャンネル
-UC1kDVgEX2DsE295Bkum_K9Q,【LIVE】東京 新宿 鉄道 ライブ Tokyo Shinjuku Live Ch,https://www.youtube.com/channel/UC1kDVgEX2DsE295Bkum_K9Q,UU1kDVgEX2DsE295Bkum_K9Q,2026-10-19T01:44:08Z,2026-10-11T10:20:00Z,50,未判定,6,外部掲載チャンネル
-UClAtpDytL1hmOUeiJaNrHlQ,【公式】道後温泉,https://www.youtube.com/channel/UClAtpDytL1hmOUeiJaNrHlQ,UUlAtpDytL1hmOUeiJaNrHlQ,2026-10-19T01:44:08Z,2026-10-11T10:20:00Z,8,未判定,3,外部掲載チャンネル
-UCSgouYRapy1btrfHNrVGKFQ,株式会社御前崎ケーブルテレビ(まおまお),https://www.youtube.com/channel/UCSgouYRapy1btrfHNrVGKFQ,UUSgouYRapy1btrfHNrVGKFQ,2026-10-19T01:44:09Z,2026-10-11T10:20:00Z,2,未判定,3,外部掲載チャンネル
-UCh1UcGFBIuFo5I-I1WMyclA,浅草中屋チャンネル -ASAKUSA NAKAYA CHANNEL-,https://www.youtube.com/channel/UCh1UcGFBIuFo5I-I1WMyclA,UUh1UcGFBIuFo5I-I1WMyclA,2026-10-19T01:44:09Z,2026-10-11T10:20:00Z,5,未判定,3,外部掲載チャンネル
-UCv6bLM0gYcsx7i_XveUNvqA,cvn 飯田駅ホームライブカメラ,https://www.youtube.com/channel/UCv6bLM0gYcsx7i_XveUNvqA,UUv6bLM0gYcsx7i_XveUNvqA,2026-10-19T01:44:09Z,2026-10-11T10:19:59Z,2,有,3,外部掲載チャンネル
-UCvsp21TYixwg_vbejtBh-Pg,上野学園ホール（広島県立文化芸術ホール）公式,https://www.youtube.com/channel/UCvsp21TYixwg_vbejtBh-Pg,UUvsp21TYixwg_vbejtBh-Pg,2026-10-19T01:44:09Z,2026-10-11T10:20:00Z,2,未判定,3,外部掲載チャンネル
-UCiIA2H7KnbK7Wsyhpw1_glw,fuji-net,https://www.youtube.com/channel/UCiIA2H7KnbK7Wsyhpw1_glw,UUiIA2H7KnbK7Wsyhpw1_glw,2026-10-19T01:44:10Z,2026-10-11T10:20:00Z,1,未判定,3,外部掲載チャンネル
-UCjVQqE5mViYlR1zF1yefd2g,ウミネコ商店,https://www.youtube.com/channel/UCjVQqE5mViYlR1zF1yefd2g,UUjVQqE5mViYlR1zF1yefd2g,2026-10-19T01:44:10Z,2026-10-11T10:20:00Z,2,未判定,3,外部掲載チャンネル
-UCo9e_ilRlTxHTCFAcaLR2-w,お弁当屋さんのライブカメラLIVE camera 【LIVE】キッチンDIVE,https://www.youtube.com/channel/UCo9e_ilRlTxHTCFAcaLR2-w,UUo9e_ilRlTxHTCFAcaLR2-w,2026-10-19T01:44:10Z,2026-10-11T10:20:00Z,8,有,9,外部掲載チャンネル
-UCpWU25qIleNLmUEF9VwBdMA,財宝公式チャンネル,https://www.youtube.com/channel/UCpWU25qIleNLmUEF9VwBdMA,UUpWU25qIleNLmUEF9VwBdMA,2026-10-19T01:44:10Z,2026-10-11T10:20:00Z,1,未判定,5,外部掲載チャンネル
-UC-FJEUgsKaHi5ep0wihlNEw,京阪まなみっくす,https://www.youtube.com/channel/UC-FJEUgsKaHi5ep0wihlNEw,UU-FJEUgsKaHi5ep0wihlNEw,2026-10-19T01:44:11Z,2026-10-11T10:20:00Z,1,未判定,3,外部掲載チャンネル
-UCS713ZZe80p12889JyaiKCA,FBC 福井放送公式チャンネル,https://www.youtube.com/channel/UCS713ZZe80p12889JyaiKCA,UUS713ZZe80p12889JyaiKCA,2026-10-19T01:44:11Z,2026-10-11T10:19:59Z,2,未判定,3,外部掲載チャンネル
-UCT-PZ211r3_9mFdF0zC1HHg,十勝毎日新聞,https://www.youtube.com/channel/UCT-PZ211r3_9mFdF0zC1HHg,UUT-PZ211r3_9mFdF0zC1HHg,2026-10-19T01:44:12Z,2026-10-11T10:19:59Z,2,未判定,3,外部掲載チャンネル
-UCVFk3LGs7qDSlb9Sy8woSTw,穴水町公式チャンネル,https://www.youtube.com/channel/UCVFk3LGs7qDSlb9Sy8woSTw,UUVFk3LGs7qDSlb9Sy8woSTw,2026-10-19T01:44:12Z,2026-10-11T10:19:59Z,5,未判定,3,外部掲載チャンネル
-UCWkqxFZQSdkR_q8kGz6p9mw,NCC長崎文化放送,https://www.youtube.com/channel/UCWkqxFZQSdkR_q8kGz6p9mw,UUWkqxFZQSdkR_q8kGz6p9mw,2026-10-19T01:44:14Z,2026-10-11T10:20:00Z,3,未判定,3,外部掲載チャンネル
-UCkUdb6wh-TE9MK7Q2VTE5-A,静岡市さった峠 ライブカメラ,https://www.youtube.com/channel/UCkUdb6wh-TE9MK7Q2VTE5-A,UUkUdb6wh-TE9MK7Q2VTE5-A,2026-10-19T01:44:14Z,2026-10-11T10:20:00Z,2,有,5,外部掲載チャンネル
-UCt6LB-BvEmDm-oWbe_TO7mw,北陸朝日放送公式チャンネル,https://www.youtube.com/channel/UCt6LB-BvEmDm-oWbe_TO7mw,UUt6LB-BvEmDm-oWbe_TO7mw,2026-10-19T01:44:15Z,2026-10-11T10:20:00Z,1,未判定,3,外部掲載チャンネル
-UCawcG-FdPCNSu_JGIAZH0OQ,交通情報ライブカメラCH,https://www.youtube.com/channel/UCawcG-FdPCNSu_JGIAZH0OQ,UUawcG-FdPCNSu_JGIAZH0OQ,2026-10-19T01:44:17Z,2026-10-11T10:20:00Z,121,有,15,旧CSV
-UCgxPy1pKN9Ah5bj2W9KYvAw,徳島 眉山・阿波おどり Live Camera,https://www.youtube.com/channel/UCgxPy1pKN9Ah5bj2W9KYvAw,UUgxPy1pKN9Ah5bj2W9KYvAw,2026-10-19T01:44:18Z,2026-10-11T10:20:00Z,94,有,15,旧CSV
-UChU3QHV-yZytG_AJgfL2bnw,諏訪湖八ヶ岳ライブカメラ  4994 Land,https://www.youtube.com/channel/UChU3QHV-yZytG_AJgfL2bnw,UUhU3QHV-yZytG_AJgfL2bnw,2026-10-19T01:44:20Z,2026-10-11T10:20:00Z,92,有,9,旧CSV
-UCwBi2ayzYzUs99MS7AbjjdQ,寒雷雨 | 神奈川県横須賀市・三浦半島 | 空・天気・流星群・星空ライブカメラ,https://www.youtube.com/channel/UCwBi2ayzYzUs99MS7AbjjdQ,UUwBi2ayzYzUs99MS7AbjjdQ,2026-10-19T01:44:21Z,2026-10-11T10:20:00Z,93,有,5,旧CSV
-UC4vlCNw-GtuaQiA-nn8bwvg,富士山中湖パノラマライブカメラ,https://www.youtube.com/channel/UC4vlCNw-GtuaQiA-nn8bwvg,UU4vlCNw-GtuaQiA-nn8bwvg,2026-10-19T01:44:22Z,2026-10-12T01:34:37Z,78,有,3,旧CSV
-UC0R4g0LcVAopWA93A18Jkdg,北千住駅東口ライブカメラ東京都足立区,https://www.youtube.com/channel/UC0R4g0LcVAopWA93A18Jkdg,UU0R4g0LcVAopWA93A18Jkdg,2026-10-19T01:44:23Z,2026-10-11T10:20:34Z,73,有,5,旧CSV
-UCPFsRBB_Is0GkAUcXL305AQ,東京都練馬区三原台ライブカメラ,https://www.youtube.com/channel/UCPFsRBB_Is0GkAUcXL305AQ,UUPFsRBB_Is0GkAUcXL305AQ,2026-10-19T01:44:24Z,2026-10-11T10:20:00Z,73,有,3,旧CSV
-UC3epV9Jnk2NRF9NrpYkCagg,静岡県御殿場市川島田ライブカメラ,https://www.youtube.com/channel/UC3epV9Jnk2NRF9NrpYkCagg,UU3epV9Jnk2NRF9NrpYkCagg,2026-10-19T01:44:25Z,2026-10-12T01:33:45Z,66,有,4,旧CSV
-UCHRqb1ZzuzFZufIrrIDuZvA,北海道札幌市東区東雁来六条ライブカメラ,https://www.youtube.com/channel/UCHRqb1ZzuzFZufIrrIDuZvA,UUHRqb1ZzuzFZufIrrIDuZvA,2026-10-19T01:44:26Z,2026-10-11T10:20:00Z,67,有,3,旧CSV
-UCcn8V9sDsMqKIjq-N4eWR3w,福井県福井市左内町ライブカメラ,https://www.youtube.com/channel/UCcn8V9sDsMqKIjq-N4eWR3w,UUcn8V9sDsMqKIjq-N4eWR3w,2026-10-19T01:44:27Z,2026-10-11T10:20:00Z,66,有,4,旧CSV
-UCkotx7bIbb8siMcQ1MijBGA,福島県いわき市平上荒川ライブカメラ,https://www.youtube.com/channel/UCkotx7bIbb8siMcQ1MijBGA,UUkotx7bIbb8siMcQ1MijBGA,2026-10-19T01:44:28Z,2026-10-11T10:20:34Z,66,有,4,旧CSV
-UC1i47MzonAVfuCsEQQKHQ1w,北海道礼文郡礼文町船泊村大備ライブカメラ,https://www.youtube.com/channel/UC1i47MzonAVfuCsEQQKHQ1w,UU1i47MzonAVfuCsEQQKHQ1w,2026-10-19T01:44:44Z,2026-10-11T10:20:34Z,65,有,4,旧CSV
-UC6IIJCTF3da-_fEF2QTFPvA,山形県南陽市椚塚ライブカメラ,https://www.youtube.com/channel/UC6IIJCTF3da-_fEF2QTFPvA,UU6IIJCTF3da-_fEF2QTFPvA,2026-10-19T01:44:45Z,2026-10-12T01:34:37Z,65,有,3,旧CSV
-UC7DstFXq0KU7rWu__UXO5EQ,香川県三豊市詫間町詫間ライブカメラ,https://www.youtube.com/channel/UC7DstFXq0KU7rWu__UXO5EQ,UU7DstFXq0KU7rWu__UXO5EQ,2026-10-19T01:44:46Z,2026-10-12T01:34:37Z,64,有,4,旧CSV
-UCBBnqtplrtG5r1r7H-t9tTw,Live cam Himeji,https://www.youtube.com/channel/UCBBnqtplrtG5r1r7H-t9tTw,UUBBnqtplrtG5r1r7H-t9tTw,2026-10-19T01:44:47Z,2026-10-13T01:34:26Z,65,有,10,旧CSV
-UCE6nKt3aILHasrKz_zf2-Og,佐賀県佐賀市神野東駅北通りライブカメラ,https://www.youtube.com/channel/UCE6nKt3aILHasrKz_zf2-Og,UUE6nKt3aILHasrKz_zf2-Og,2026-10-19T01:44:48Z,2026-10-11T10:20:00Z,66,有,4,旧CSV
-UC3kXq4-Y29ciXnBi-G5MpzQ,山形県天童市鍬ノ町天童温泉方面ライブカメラ,https://www.youtube.com/channel/UC3kXq4-Y29ciXnBi-G5MpzQ,UU3kXq4-Y29ciXnBi-G5MpzQ,2026-10-19T01:44:49Z,2026-10-11T10:20:00Z,66,有,3,旧CSV
-UChVhxyqTzM7ia1EtxmBP4lQ,長野県長野市稲葉ライブカメラ,https://www.youtube.com/channel/UChVhxyqTzM7ia1EtxmBP4lQ,UUhVhxyqTzM7ia1EtxmBP4lQ,2026-10-19T01:44:50Z,2026-10-11T10:20:00Z,66,有,3,旧CSV
-UC-xHOUJoIlfGaUCPk75jO0w,長野県木曽郡上松町ライブカメラ,https://www.youtube.com/channel/UC-xHOUJoIlfGaUCPk75jO0w,UU-xHOUJoIlfGaUCPk75jO0w,2026-10-19T01:44:51Z,2026-10-11T10:20:34Z,65,有,5,旧CSV
-UC-H9IUZne3KJ8zyAtEXm_aA,東京都板橋区板橋ライブカメラ,https://www.youtube.com/channel/UC-H9IUZne3KJ8zyAtEXm_aA,UU-H9IUZne3KJ8zyAtEXm_aA,2026-10-19T01:44:52Z,2026-10-11T10:20:34Z,65,有,8,旧CSV
-UC-gEJUghuwNpu34332iuCrw,栃木県小山市犬塚交差点ライブカメラ,https://www.youtube.com/channel/UC-gEJUghuwNpu34332iuCrw,UU-gEJUghuwNpu34332iuCrw,2026-10-19T01:44:54Z,2026-10-11T10:20:34Z,65,有,6,旧CSV
-UC063nguZr2_7Pg1tOmr-J_Q, 長野県長野市小島田町お天気ライブカメラ,https://www.youtube.com/channel/UC063nguZr2_7Pg1tOmr-J_Q,UU063nguZr2_7Pg1tOmr-J_Q,2026-10-19T01:44:55Z,2026-10-11T10:20:34Z,65,有,5,旧CSV
-UC0dq9RWEH47FqoNKI_qN4Zg,福岡県福岡市早良区有田交差点ライブカメラ,https://www.youtube.com/channel/UC0dq9RWEH47FqoNKI_qN4Zg,UU0dq9RWEH47FqoNKI_qN4Zg,2026-10-19T01:44:56Z,2026-10-11T10:20:34Z,65,有,5,旧CSV
-UC-11jLi4dHuIicjGApT0MXA,神奈川県青葉区鉄町ライブカメラ,https://www.youtube.com/channel/UC-11jLi4dHuIicjGApT0MXA,UU-11jLi4dHuIicjGApT0MXA,2026-10-19T01:44:57Z,2026-10-11T10:20:34Z,65,有,4,旧CSV
-UC-4hCboFEeCdpnxtCVduCVg,茨城県猿島郡境町ライブカメラ,https://www.youtube.com/channel/UC-4hCboFEeCdpnxtCVduCVg,UU-4hCboFEeCdpnxtCVduCVg,2026-10-19T01:44:58Z,2026-10-11T10:20:34Z,65,有,4,旧CSV
-UC-GUYV-5Tv62fIg3pLYKSFg,福岡県八女市豊福ライブカメラ,https://www.youtube.com/channel/UC-GUYV-5Tv62fIg3pLYKSFg,UU-GUYV-5Tv62fIg3pLYKSFg,2026-10-19T01:44:59Z,2026-10-11T10:20:34Z,65,有,4,旧CSV
-UC-Wr-H2NVHOLYtw5AM7R14w,愛媛県宇和島市伊吹町ライブカメラ,https://www.youtube.com/channel/UC-Wr-H2NVHOLYtw5AM7R14w,UU-Wr-H2NVHOLYtw5AM7R14w,2026-10-19T01:45:00Z,2026-10-11T10:20:34Z,65,有,4,旧CSV
 UC-_12j6GCr4MK9HzpSXIpyg,茨城県日立市水木町ライブカメラ,https://www.youtube.com/channel/UC-_12j6GCr4MK9HzpSXIpyg,UU-_12j6GCr4MK9HzpSXIpyg,2026-10-19T01:45:01Z,2026-10-11T10:20:34Z,65,有,5,旧CSV
 UC00WNXmOrgIi9qMFERtmeGQ,富山県富山市横内ライブカメラ,https://www.youtube.com/channel/UC00WNXmOrgIi9qMFERtmeGQ,UU00WNXmOrgIi9qMFERtmeGQ,2026-10-19T01:45:02Z,2026-10-11T10:20:34Z,65,有,4,旧CSV
 UC0K-r8xBHG4Yeso2pXWBOdA,新潟県三条市西大崎ライブカメラ,https://www.youtube.com/channel/UC0K-r8xBHG4Yeso2pXWBOdA,UU0K-r8xBHG4Yeso2pXWBOdA,2026-10-19T01:45:03Z,2026-10-11T10:20:34Z,65,有,4,旧CSV
@@ -2210,3 +2120,94 @@ UC4CefFeCVVNdfl5-_-YOnNw,山形県天童市総合運動公園付近ライブカ�
 UC4TwKsr1RUig7VdjlKDVxFQ,栃木県栃木市箱森町ライブカメラ,https://www.youtube.com/channel/UC4TwKsr1RUig7VdjlKDVxFQ,UU4TwKsr1RUig7VdjlKDVxFQ,2026-10-19T01:45:38Z,2026-10-12T01:34:37Z,64,有,4,旧CSV
 UC4VKCV4hwsBRLIycspbkz6A,神奈川区守屋町ライブカメラ,https://www.youtube.com/channel/UC4VKCV4hwsBRLIycspbkz6A,UU4VKCV4hwsBRLIycspbkz6A,2026-10-19T01:45:39Z,2026-10-12T01:34:37Z,64,有,4,旧CSV
 UC4nt42w46XJWmPjfQCgw0xg,北海道標津郡中標津町ライブカメラ,https://www.youtube.com/channel/UC4nt42w46XJWmPjfQCgw0xg,UU4nt42w46XJWmPjfQCgw0xg,2026-10-19T01:45:40Z,2026-10-12T01:34:37Z,64,有,4,旧CSV
+UC0bo0F5nUfsHTgUWf3FKrIw,KABUKICHO,https://www.youtube.com/channel/UC0bo0F5nUfsHTgUWf3FKrIw,UU0bo0F5nUfsHTgUWf3FKrIw,2026-10-20T01:45:15Z,2026-10-11T10:20:00Z,62,未判定,4,外部掲載チャンネル
+UCQ2mmGKtrBp6rL8tSMJCCwA,ラジカルビデオジョッキー RVJJP,https://www.youtube.com/channel/UCQ2mmGKtrBp6rL8tSMJCCwA,UUQ2mmGKtrBp6rL8tSMJCCwA,2026-10-20T01:45:16Z,2026-10-11T10:20:00Z,48,未判定,3,外部掲載チャンネル
+UCDoo6BDBM70pQQfmoG640Bg,鉄道動画ch,https://www.youtube.com/channel/UCDoo6BDBM70pQQfmoG640Bg,UUDoo6BDBM70pQQfmoG640Bg,2026-10-20T01:45:17Z,2026-10-11T10:19:59Z,27,未判定,3,外部掲載チャンネル
+UCynXCHprmOfyGzGSnqgp6Wg,株式会社 上野城公式,https://www.youtube.com/channel/UCynXCHprmOfyGzGSnqgp6Wg,UUynXCHprmOfyGzGSnqgp6Wg,2026-10-20T01:45:17Z,2026-10-11T10:20:00Z,47,未判定,4,外部掲載チャンネル
+UC7lHIZbQzHILorlX4R0izsw,starstyle,https://www.youtube.com/channel/UC7lHIZbQzHILorlX4R0izsw,UU7lHIZbQzHILorlX4R0izsw,2026-10-20T01:45:18Z,2026-10-11T10:20:00Z,28,未判定,3,外部掲載チャンネル
+UCu76uqpelv-VALL5d6zsljg,神田ライブチャンネル(Kanda live channel),https://www.youtube.com/channel/UCu76uqpelv-VALL5d6zsljg,UUu76uqpelv-VALL5d6zsljg,2026-10-20T01:45:18Z,2026-10-11T10:20:00Z,29,未判定,4,外部掲載チャンネル
+UCZ974tQkAeV7_l_opPHCcdg,The Dramatic 中央本線。,https://www.youtube.com/channel/UCZ974tQkAeV7_l_opPHCcdg,UUZ974tQkAeV7_l_opPHCcdg,2026-10-20T01:45:19Z,2026-10-11T10:20:00Z,17,未判定,5,外部掲載チャンネル
+UCwzJctz6m-0wG_evkheecZA,フジヤマNAVI,https://www.youtube.com/channel/UCwzJctz6m-0wG_evkheecZA,UUwzJctz6m-0wG_evkheecZA,2026-10-20T01:45:19Z,2026-10-11T10:20:00Z,14,未判定,3,外部掲載チャンネル
+UCAaw-OnuKB5FTpBkM0xUZ4Q,中条駅観光交流室,https://www.youtube.com/channel/UCAaw-OnuKB5FTpBkM0xUZ4Q,UUAaw-OnuKB5FTpBkM0xUZ4Q,2026-10-20T01:45:20Z,2026-10-11T10:20:00Z,6,未判定,3,外部掲載チャンネル
+UCTY5Gt9CxQcKVdHX6RFgojQ,会津東山温泉向瀧・mukaitaki,https://www.youtube.com/channel/UCTY5Gt9CxQcKVdHX6RFgojQ,UUTY5Gt9CxQcKVdHX6RFgojQ,2026-10-20T01:45:20Z,2026-10-11T10:20:00Z,20,未判定,3,外部掲載チャンネル
+UClAtpDytL1hmOUeiJaNrHlQ,【公式】道後温泉,https://www.youtube.com/channel/UClAtpDytL1hmOUeiJaNrHlQ,UUlAtpDytL1hmOUeiJaNrHlQ,2026-10-20T01:45:20Z,2026-10-11T10:20:00Z,8,未判定,3,外部掲載チャンネル
+UC1kDVgEX2DsE295Bkum_K9Q,【LIVE】東京 新宿 鉄道 ライブ Tokyo Shinjuku Live Ch,https://www.youtube.com/channel/UC1kDVgEX2DsE295Bkum_K9Q,UU1kDVgEX2DsE295Bkum_K9Q,2026-10-20T01:45:21Z,2026-10-11T10:20:00Z,50,未判定,6,外部掲載チャンネル
+UCSgouYRapy1btrfHNrVGKFQ,株式会社御前崎ケーブルテレビ(まおまお),https://www.youtube.com/channel/UCSgouYRapy1btrfHNrVGKFQ,UUSgouYRapy1btrfHNrVGKFQ,2026-10-20T01:45:21Z,2026-10-11T10:20:00Z,2,未判定,3,外部掲載チャンネル
+UCv6bLM0gYcsx7i_XveUNvqA,cvn 飯田駅ホームライブカメラ,https://www.youtube.com/channel/UCv6bLM0gYcsx7i_XveUNvqA,UUv6bLM0gYcsx7i_XveUNvqA,2026-10-20T01:45:21Z,2026-10-11T10:19:59Z,2,有,3,外部掲載チャンネル
+UCh1UcGFBIuFo5I-I1WMyclA,浅草中屋チャンネル -ASAKUSA NAKAYA CHANNEL-,https://www.youtube.com/channel/UCh1UcGFBIuFo5I-I1WMyclA,UUh1UcGFBIuFo5I-I1WMyclA,2026-10-20T01:45:22Z,2026-10-11T10:20:00Z,5,未判定,3,外部掲載チャンネル
+UCiIA2H7KnbK7Wsyhpw1_glw,fuji-net,https://www.youtube.com/channel/UCiIA2H7KnbK7Wsyhpw1_glw,UUiIA2H7KnbK7Wsyhpw1_glw,2026-10-20T01:45:22Z,2026-10-11T10:20:00Z,1,未判定,3,外部掲載チャンネル
+UCvsp21TYixwg_vbejtBh-Pg,上野学園ホール（広島県立文化芸術ホール）公式,https://www.youtube.com/channel/UCvsp21TYixwg_vbejtBh-Pg,UUvsp21TYixwg_vbejtBh-Pg,2026-10-20T01:45:22Z,2026-10-11T10:20:00Z,2,未判定,3,外部掲載チャンネル
+UCjVQqE5mViYlR1zF1yefd2g,ウミネコ商店,https://www.youtube.com/channel/UCjVQqE5mViYlR1zF1yefd2g,UUjVQqE5mViYlR1zF1yefd2g,2026-10-20T01:45:23Z,2026-10-11T10:20:00Z,2,未判定,3,外部掲載チャンネル
+UCo9e_ilRlTxHTCFAcaLR2-w,お弁当屋さんのライブカメラLIVE camera 【LIVE】キッチンDIVE,https://www.youtube.com/channel/UCo9e_ilRlTxHTCFAcaLR2-w,UUo9e_ilRlTxHTCFAcaLR2-w,2026-10-20T01:45:23Z,2026-10-11T10:20:00Z,8,有,9,外部掲載チャンネル
+UCpWU25qIleNLmUEF9VwBdMA,財宝公式チャンネル,https://www.youtube.com/channel/UCpWU25qIleNLmUEF9VwBdMA,UUpWU25qIleNLmUEF9VwBdMA,2026-10-20T01:45:23Z,2026-10-11T10:20:00Z,1,未判定,5,外部掲載チャンネル
+UC-FJEUgsKaHi5ep0wihlNEw,京阪まなみっくす,https://www.youtube.com/channel/UC-FJEUgsKaHi5ep0wihlNEw,UU-FJEUgsKaHi5ep0wihlNEw,2026-10-20T01:45:24Z,2026-10-11T10:20:00Z,1,未判定,3,外部掲載チャンネル
+UCS713ZZe80p12889JyaiKCA,FBC 福井放送公式チャンネル,https://www.youtube.com/channel/UCS713ZZe80p12889JyaiKCA,UUS713ZZe80p12889JyaiKCA,2026-10-20T01:45:24Z,2026-10-11T10:19:59Z,2,未判定,3,外部掲載チャンネル
+UCT-PZ211r3_9mFdF0zC1HHg,十勝毎日新聞,https://www.youtube.com/channel/UCT-PZ211r3_9mFdF0zC1HHg,UUT-PZ211r3_9mFdF0zC1HHg,2026-10-20T01:45:25Z,2026-10-11T10:19:59Z,2,未判定,3,外部掲載チャンネル
+UCVFk3LGs7qDSlb9Sy8woSTw,穴水町公式チャンネル,https://www.youtube.com/channel/UCVFk3LGs7qDSlb9Sy8woSTw,UUVFk3LGs7qDSlb9Sy8woSTw,2026-10-20T01:45:25Z,2026-10-11T10:19:59Z,5,未判定,3,外部掲載チャンネル
+UCWkqxFZQSdkR_q8kGz6p9mw,NCC長崎文化放送,https://www.youtube.com/channel/UCWkqxFZQSdkR_q8kGz6p9mw,UUWkqxFZQSdkR_q8kGz6p9mw,2026-10-20T01:45:27Z,2026-10-11T10:20:00Z,4,未判定,3,外部掲載チャンネル
+UCkUdb6wh-TE9MK7Q2VTE5-A,静岡市さった峠 ライブカメラ,https://www.youtube.com/channel/UCkUdb6wh-TE9MK7Q2VTE5-A,UUkUdb6wh-TE9MK7Q2VTE5-A,2026-10-20T01:45:27Z,2026-10-11T10:20:00Z,2,有,5,外部掲載チャンネル
+UCt6LB-BvEmDm-oWbe_TO7mw,北陸朝日放送公式チャンネル,https://www.youtube.com/channel/UCt6LB-BvEmDm-oWbe_TO7mw,UUt6LB-BvEmDm-oWbe_TO7mw,2026-10-20T01:45:30Z,2026-10-11T10:20:00Z,1,未判定,3,外部掲載チャンネル
+UCawcG-FdPCNSu_JGIAZH0OQ,交通情報ライブカメラCH,https://www.youtube.com/channel/UCawcG-FdPCNSu_JGIAZH0OQ,UUawcG-FdPCNSu_JGIAZH0OQ,2026-10-20T01:45:34Z,2026-10-11T10:20:00Z,136,有,15,旧CSV
+UCgxPy1pKN9Ah5bj2W9KYvAw,徳島 眉山・阿波おどり Live Camera,https://www.youtube.com/channel/UCgxPy1pKN9Ah5bj2W9KYvAw,UUgxPy1pKN9Ah5bj2W9KYvAw,2026-10-20T01:45:35Z,2026-10-11T10:20:00Z,100,有,15,旧CSV
+UCwBi2ayzYzUs99MS7AbjjdQ,寒雷雨 | 神奈川県横須賀市・三浦半島 | 空・天気・流星群・星空ライブカメラ,https://www.youtube.com/channel/UCwBi2ayzYzUs99MS7AbjjdQ,UUwBi2ayzYzUs99MS7AbjjdQ,2026-10-20T01:45:36Z,2026-10-11T10:20:00Z,102,有,5,旧CSV
+UChU3QHV-yZytG_AJgfL2bnw,諏訪湖八ヶ岳ライブカメラ  4994 Land,https://www.youtube.com/channel/UChU3QHV-yZytG_AJgfL2bnw,UUhU3QHV-yZytG_AJgfL2bnw,2026-10-20T01:45:38Z,2026-10-11T10:20:00Z,98,有,9,旧CSV
+UC4vlCNw-GtuaQiA-nn8bwvg,富士山中湖パノラマライブカメラ,https://www.youtube.com/channel/UC4vlCNw-GtuaQiA-nn8bwvg,UU4vlCNw-GtuaQiA-nn8bwvg,2026-10-20T01:45:40Z,2026-10-12T01:34:37Z,82,有,3,旧CSV
+UC0R4g0LcVAopWA93A18Jkdg,北千住駅東口ライブカメラ東京都足立区,https://www.youtube.com/channel/UC0R4g0LcVAopWA93A18Jkdg,UU0R4g0LcVAopWA93A18Jkdg,2026-10-20T01:45:41Z,2026-10-11T10:20:34Z,78,有,5,旧CSV
+UCPFsRBB_Is0GkAUcXL305AQ,東京都練馬区三原台ライブカメラ,https://www.youtube.com/channel/UCPFsRBB_Is0GkAUcXL305AQ,UUPFsRBB_Is0GkAUcXL305AQ,2026-10-20T01:45:41Z,2026-10-11T10:20:00Z,75,有,3,旧CSV
+UCHRqb1ZzuzFZufIrrIDuZvA,北海道札幌市東区東雁来六条ライブカメラ,https://www.youtube.com/channel/UCHRqb1ZzuzFZufIrrIDuZvA,UUHRqb1ZzuzFZufIrrIDuZvA,2026-10-20T01:45:42Z,2026-10-11T10:20:00Z,69,有,3,旧CSV
+UC3epV9Jnk2NRF9NrpYkCagg,静岡県御殿場市川島田ライブカメラ,https://www.youtube.com/channel/UC3epV9Jnk2NRF9NrpYkCagg,UU3epV9Jnk2NRF9NrpYkCagg,2026-10-20T01:45:43Z,2026-10-12T01:33:45Z,68,有,4,旧CSV
+UCcn8V9sDsMqKIjq-N4eWR3w,福井県福井市左内町ライブカメラ,https://www.youtube.com/channel/UCcn8V9sDsMqKIjq-N4eWR3w,UUcn8V9sDsMqKIjq-N4eWR3w,2026-10-20T01:45:44Z,2026-10-11T10:20:00Z,68,有,4,旧CSV
+UCkotx7bIbb8siMcQ1MijBGA,福島県いわき市平上荒川ライブカメラ,https://www.youtube.com/channel/UCkotx7bIbb8siMcQ1MijBGA,UUkotx7bIbb8siMcQ1MijBGA,2026-10-20T01:45:45Z,2026-10-11T10:20:34Z,68,有,4,旧CSV
+UCBBnqtplrtG5r1r7H-t9tTw,Live cam Himeji,https://www.youtube.com/channel/UCBBnqtplrtG5r1r7H-t9tTw,UUBBnqtplrtG5r1r7H-t9tTw,2026-10-20T01:45:46Z,2026-10-13T01:34:26Z,67,有,11,旧CSV
+UCE6nKt3aILHasrKz_zf2-Og,佐賀県佐賀市神野東駅北通りライブカメラ,https://www.youtube.com/channel/UCE6nKt3aILHasrKz_zf2-Og,UUE6nKt3aILHasrKz_zf2-Og,2026-10-20T01:45:47Z,2026-10-11T10:20:00Z,68,有,4,旧CSV
+UC3kXq4-Y29ciXnBi-G5MpzQ,山形県天童市鍬ノ町天童温泉方面ライブカメラ,https://www.youtube.com/channel/UC3kXq4-Y29ciXnBi-G5MpzQ,UU3kXq4-Y29ciXnBi-G5MpzQ,2026-10-20T01:45:48Z,2026-10-11T10:20:00Z,68,有,3,旧CSV
+UChVhxyqTzM7ia1EtxmBP4lQ,長野県長野市稲葉ライブカメラ,https://www.youtube.com/channel/UChVhxyqTzM7ia1EtxmBP4lQ,UUhVhxyqTzM7ia1EtxmBP4lQ,2026-10-20T01:45:49Z,2026-10-11T10:20:00Z,68,有,3,旧CSV
+UC1i47MzonAVfuCsEQQKHQ1w,北海道礼文郡礼文町船泊村大備ライブカメラ,https://www.youtube.com/channel/UC1i47MzonAVfuCsEQQKHQ1w,UU1i47MzonAVfuCsEQQKHQ1w,2026-10-20T01:45:50Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UC6IIJCTF3da-_fEF2QTFPvA,山形県南陽市椚塚ライブカメラ,https://www.youtube.com/channel/UC6IIJCTF3da-_fEF2QTFPvA,UU6IIJCTF3da-_fEF2QTFPvA,2026-10-20T01:45:51Z,2026-10-12T01:34:37Z,67,有,3,旧CSV
+UC-xHOUJoIlfGaUCPk75jO0w,長野県木曽郡上松町ライブカメラ,https://www.youtube.com/channel/UC-xHOUJoIlfGaUCPk75jO0w,UU-xHOUJoIlfGaUCPk75jO0w,2026-10-20T01:45:52Z,2026-10-11T10:20:34Z,67,有,5,旧CSV
+UC-H9IUZne3KJ8zyAtEXm_aA,東京都板橋区板橋ライブカメラ,https://www.youtube.com/channel/UC-H9IUZne3KJ8zyAtEXm_aA,UU-H9IUZne3KJ8zyAtEXm_aA,2026-10-20T01:45:53Z,2026-10-11T10:20:34Z,67,有,8,旧CSV
+UC-gEJUghuwNpu34332iuCrw,栃木県小山市犬塚交差点ライブカメラ,https://www.youtube.com/channel/UC-gEJUghuwNpu34332iuCrw,UU-gEJUghuwNpu34332iuCrw,2026-10-20T01:45:54Z,2026-10-11T10:20:34Z,67,有,6,旧CSV
+UC063nguZr2_7Pg1tOmr-J_Q, 長野県長野市小島田町お天気ライブカメラ,https://www.youtube.com/channel/UC063nguZr2_7Pg1tOmr-J_Q,UU063nguZr2_7Pg1tOmr-J_Q,2026-10-20T01:45:55Z,2026-10-11T10:20:34Z,67,有,5,旧CSV
+UC0dq9RWEH47FqoNKI_qN4Zg,福岡県福岡市早良区有田交差点ライブカメラ,https://www.youtube.com/channel/UC0dq9RWEH47FqoNKI_qN4Zg,UU0dq9RWEH47FqoNKI_qN4Zg,2026-10-20T01:45:55Z,2026-10-11T10:20:34Z,67,有,5,旧CSV
+UC-11jLi4dHuIicjGApT0MXA,神奈川県青葉区鉄町ライブカメラ,https://www.youtube.com/channel/UC-11jLi4dHuIicjGApT0MXA,UU-11jLi4dHuIicjGApT0MXA,2026-10-20T01:45:56Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UC-4hCboFEeCdpnxtCVduCVg,茨城県猿島郡境町ライブカメラ,https://www.youtube.com/channel/UC-4hCboFEeCdpnxtCVduCVg,UU-4hCboFEeCdpnxtCVduCVg,2026-10-20T01:45:58Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UC-GUYV-5Tv62fIg3pLYKSFg,福岡県八女市豊福ライブカメラ,https://www.youtube.com/channel/UC-GUYV-5Tv62fIg3pLYKSFg,UU-GUYV-5Tv62fIg3pLYKSFg,2026-10-20T01:45:59Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UC-Wr-H2NVHOLYtw5AM7R14w,愛媛県宇和島市伊吹町ライブカメラ,https://www.youtube.com/channel/UC-Wr-H2NVHOLYtw5AM7R14w,UU-Wr-H2NVHOLYtw5AM7R14w,2026-10-20T01:46:00Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UC7DstFXq0KU7rWu__UXO5EQ,香川県三豊市詫間町詫間ライブカメラ,https://www.youtube.com/channel/UC7DstFXq0KU7rWu__UXO5EQ,UU7DstFXq0KU7rWu__UXO5EQ,2026-10-20T01:46:01Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC5-ZRW-h2nvHd19__XaGjPQ,福島県福島市八木田ライブカメラ,https://www.youtube.com/channel/UC5-ZRW-h2nvHd19__XaGjPQ,UU5-ZRW-h2nvHd19__XaGjPQ,2026-10-20T01:46:02Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC54RNpR5RnL9i2BwcHcNzeQ,神奈川県三浦郡葉山町一色かるがも通り下山川ライブカメラ,https://www.youtube.com/channel/UC54RNpR5RnL9i2BwcHcNzeQ,UU54RNpR5RnL9i2BwcHcNzeQ,2026-10-20T01:46:03Z,2026-10-12T01:34:37Z,66,有,5,旧CSV
+UC59KnUTtmRQWAMF5VhcIgmA,佐賀県佐賀市兵庫南ライブカメラ,https://www.youtube.com/channel/UC59KnUTtmRQWAMF5VhcIgmA,UU59KnUTtmRQWAMF5VhcIgmA,2026-10-20T01:46:04Z,2026-10-12T01:34:37Z,66,有,5,旧CSV
+UC5Dpv3I7NdqggwVjCAEIqRA,千葉県山武郡九十九里町下貝塚ライブカメラ,https://www.youtube.com/channel/UC5Dpv3I7NdqggwVjCAEIqRA,UU5Dpv3I7NdqggwVjCAEIqRA,2026-10-20T01:46:05Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC5Mr3Er9Noc--iKxmsPn7tA,岡山県倉敷市二日市ライブカメラ,https://www.youtube.com/channel/UC5Mr3Er9Noc--iKxmsPn7tA,UU5Mr3Er9Noc--iKxmsPn7tA,2026-10-20T01:46:06Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC5NDEEBTMfhUbuaqdqWW_-Q,山形県山形市松栄県道17号線ライブカメラ,https://www.youtube.com/channel/UC5NDEEBTMfhUbuaqdqWW_-Q,UU5NDEEBTMfhUbuaqdqWW_-Q,2026-10-20T01:46:07Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC5WleQtJxmAa301fAJwpi7Q,富山県南砺市閑乗寺公園ライブカメラ,https://www.youtube.com/channel/UC5WleQtJxmAa301fAJwpi7Q,UU5WleQtJxmAa301fAJwpi7Q,2026-10-20T01:46:08Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC5fBsz2KmMrVZxHCBx_HTew,大阪府寝屋川市大利町ライブカメラ,https://www.youtube.com/channel/UC5fBsz2KmMrVZxHCBx_HTew,UU5fBsz2KmMrVZxHCBx_HTew,2026-10-20T01:46:09Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC5gG_KwzI8IQYNTtQekKs8g,宮崎県えびの市大明司ライブカメラ,https://www.youtube.com/channel/UC5gG_KwzI8IQYNTtQekKs8g,UU5gG_KwzI8IQYNTtQekKs8g,2026-10-20T01:46:10Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC68wrThTWqC8Z-7d68LRi9g,長野県須坂市大字仁礼ライブカメラ,https://www.youtube.com/channel/UC68wrThTWqC8Z-7d68LRi9g,UU68wrThTWqC8Z-7d68LRi9g,2026-10-20T01:46:11Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC6Qu5jpAIXUpmuxx-oTIxhQ,神奈川県伊勢原市笠窪ライブカメラ,https://www.youtube.com/channel/UC6Qu5jpAIXUpmuxx-oTIxhQ,UU6Qu5jpAIXUpmuxx-oTIxhQ,2026-10-20T01:46:13Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC6qB8_c5l6y1AJHL_7Rj4ug,京都府京都市左京区北白川久保田町ライブカメラ,https://www.youtube.com/channel/UC6qB8_c5l6y1AJHL_7Rj4ug,UU6qB8_c5l6y1AJHL_7Rj4ug,2026-10-20T01:46:14Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC6tNPKq6eE3xUZmvlT3wjkA,三重県多気郡明和町大淀寺前ライブカメラ,https://www.youtube.com/channel/UC6tNPKq6eE3xUZmvlT3wjkA,UU6tNPKq6eE3xUZmvlT3wjkA,2026-10-20T01:46:14Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC6wO9VRqGRTiSVEJX8Sz-jQ,東京都調布市調布ケ丘ライブカメラ,https://www.youtube.com/channel/UC6wO9VRqGRTiSVEJX8Sz-jQ,UU6wO9VRqGRTiSVEJX8Sz-jQ,2026-10-20T01:46:16Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC6wuijUhb0L5fDprjgX16BA,栃木県下都賀郡壬生町駅東町ライブカメラ,https://www.youtube.com/channel/UC6wuijUhb0L5fDprjgX16BA,UU6wuijUhb0L5fDprjgX16BA,2026-10-20T01:46:17Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC7ERI3vks8ca-Q7RfgCl2Dw,山梨県北杜市小淵沢町ライブカメラ,https://www.youtube.com/channel/UC7ERI3vks8ca-Q7RfgCl2Dw,UU7ERI3vks8ca-Q7RfgCl2Dw,2026-10-20T01:46:18Z,2026-10-12T01:34:37Z,66,有,4,旧CSV
+UC1KzzC2wpPBUCLhGGgU3q6g,山形県山形市若葉町道路沿いライブカメラ,https://www.youtube.com/channel/UC1KzzC2wpPBUCLhGGgU3q6g,UU1KzzC2wpPBUCLhGGgU3q6g,2026-10-20T01:46:19Z,2026-10-11T10:20:34Z,66,有,3,旧CSV
+UC230gUwvxTsqopk_L2iBqUQ,佐賀県佐賀市大和町久池井ライブカメラ,https://www.youtube.com/channel/UC230gUwvxTsqopk_L2iBqUQ,UU230gUwvxTsqopk_L2iBqUQ,2026-10-20T01:46:20Z,2026-10-11T10:20:34Z,66,有,3,旧CSV
+UC3_VH5DSi8n3Zl6JEl4tiGg,青森県 青森市金沢ライブカメラ,https://www.youtube.com/channel/UC3_VH5DSi8n3Zl6JEl4tiGg,UU3_VH5DSi8n3Zl6JEl4tiGg,2026-10-20T01:46:21Z,2026-10-12T01:33:45Z,66,有,3,旧CSV
+UC5sdwVvuFQu37XdZAGEOgPw, 山形県山形市あかねケ丘大通りライブカメラ,https://www.youtube.com/channel/UC5sdwVvuFQu37XdZAGEOgPw,UU5sdwVvuFQu37XdZAGEOgPw,2026-10-20T01:46:23Z,2026-10-12T01:34:37Z,66,有,3,旧CSV
+UC6hbK04MKTIf2Hr0Ya9t0WA,北海道札幌市東区北五十条東ライブカメラ,https://www.youtube.com/channel/UC6hbK04MKTIf2Hr0Ya9t0WA,UU6hbK04MKTIf2Hr0Ya9t0WA,2026-10-20T01:46:24Z,2026-10-12T01:34:37Z,66,有,3,旧CSV
+UC6wcS_VaTC9PvAJd_sEC_Nw,山形県東根市神町西ライブカメラ,https://www.youtube.com/channel/UC6wcS_VaTC9PvAJd_sEC_Nw,UU6wcS_VaTC9PvAJd_sEC_Nw,2026-10-20T01:46:24Z,2026-10-12T01:34:37Z,66,有,3,旧CSV
+UC0hN6dz60SDgfU222YYgdng,佐賀県佐賀市駅前中央1丁目通りライブカメラ,https://www.youtube.com/channel/UC0hN6dz60SDgfU222YYgdng,UU0hN6dz60SDgfU222YYgdng,2026-10-20T01:46:26Z,2026-10-11T10:20:34Z,67,有,5,旧CSV
+UC-OEK1wn73A5TXNGPwoTJtA,佐賀県佐賀市大和町尼寺ライブカメラ,https://www.youtube.com/channel/UC-OEK1wn73A5TXNGPwoTJtA,UU-OEK1wn73A5TXNGPwoTJtA,2026-10-20T01:46:27Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UC0mezHji98oj6NRMBx098yA,佐賀県佐賀市木原ライブカメラ,https://www.youtube.com/channel/UC0mezHji98oj6NRMBx098yA,UU0mezHji98oj6NRMBx098yA,2026-10-20T01:46:28Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UCaeMPi5n_AJsMusYoKcfWwg,鳥取県米子市ライブカメラ,https://www.youtube.com/channel/UCaeMPi5n_AJsMusYoKcfWwg,UUaeMPi5n_AJsMusYoKcfWwg,2026-10-20T01:46:29Z,2026-10-11T10:20:00Z,67,有,8,旧CSV
+UClqiZswrbILTdMqEwSwT3qw,鹿児島県鹿児島市田上ライブカメラ,https://www.youtube.com/channel/UClqiZswrbILTdMqEwSwT3qw,UUlqiZswrbILTdMqEwSwT3qw,2026-10-20T01:46:31Z,2026-10-11T10:20:34Z,67,有,7,旧CSV
+UC3FFNoHLo6_djlPnVPD8nYA,高知県高知市仁井田ライブカメラ,https://www.youtube.com/channel/UC3FFNoHLo6_djlPnVPD8nYA,UU3FFNoHLo6_djlPnVPD8nYA,2026-10-20T01:46:32Z,2026-10-11T10:20:00Z,67,有,5,旧CSV
+UC9MMvkfuF5-SbvYHEhAGo5Q,熊本県熊本市北区下硯川ライブカメラ,https://www.youtube.com/channel/UC9MMvkfuF5-SbvYHEhAGo5Q,UU9MMvkfuF5-SbvYHEhAGo5Q,2026-10-20T01:46:33Z,2026-10-11T10:20:00Z,67,有,4,旧CSV
+UCDQUxTLSRp48XxHfMe5S4Jg,鳥取県八頭郡八頭町井古ライブカメラ,https://www.youtube.com/channel/UCDQUxTLSRp48XxHfMe5S4Jg,UUDQUxTLSRp48XxHfMe5S4Jg,2026-10-20T01:46:33Z,2026-10-11T10:20:00Z,67,有,4,旧CSV
+UCNwU0j7LxRGFVbmuzYw2W_g,鹿児島県鹿児島市東谷山市電ライブカメラ,https://www.youtube.com/channel/UCNwU0j7LxRGFVbmuzYw2W_g,UUNwU0j7LxRGFVbmuzYw2W_g,2026-10-20T01:46:34Z,2026-10-11T10:20:00Z,67,有,5,旧CSV
+UCRALjq9bdLtS9ervr45sIcw,鹿児島県鹿児島市城山町ライブカメラ,https://www.youtube.com/channel/UCRALjq9bdLtS9ervr45sIcw,UURALjq9bdLtS9ervr45sIcw,2026-10-20T01:46:35Z,2026-10-11T10:20:00Z,67,有,4,旧CSV
+UC_BUDXg-ERvXvyA4ekQDHKA,奈良県奈良市大宮町ライブカメラ,https://www.youtube.com/channel/UC_BUDXg-ERvXvyA4ekQDHKA,UU_BUDXg-ERvXvyA4ekQDHKA,2026-10-20T01:46:36Z,2026-10-11T10:20:00Z,67,有,6,旧CSV
+UCdpvGwSESOrvjPxwiwKX6Xg,熊本県熊本市南区近見ライブカメラ,https://www.youtube.com/channel/UCdpvGwSESOrvjPxwiwKX6Xg,UUdpvGwSESOrvjPxwiwKX6Xg,2026-10-20T01:46:37Z,2026-10-11T10:20:00Z,67,有,4,旧CSV
+UCfl9lHgCmjzeiCcFEIC0dWA,大分県大分市高城本町原川ライブカメラ,https://www.youtube.com/channel/UCfl9lHgCmjzeiCcFEIC0dWA,UUfl9lHgCmjzeiCcFEIC0dWA,2026-10-20T01:46:38Z,2026-10-11T10:20:00Z,67,有,4,旧CSV
+UCx7CUAfpLdunhWOcLCNBvZg,大分県大分市新貝ライブカメラ,https://www.youtube.com/channel/UCx7CUAfpLdunhWOcLCNBvZg,UUx7CUAfpLdunhWOcLCNBvZg,2026-10-20T01:46:39Z,2026-10-11T10:20:34Z,67,有,4,旧CSV
+UC-UPZryrJCyS_GGZiCcLY8g,山形県東根市温泉町ライブカメラ,https://www.youtube.com/channel/UC-UPZryrJCyS_GGZiCcLY8g,UU-UPZryrJCyS_GGZiCcLY8g,2026-10-20T01:46:40Z,2026-10-11T10:20:34Z,67,有,3,旧CSV
